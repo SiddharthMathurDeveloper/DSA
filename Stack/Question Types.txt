@@ -1,5 +1,6 @@
 
 [Parentheses]
+--------------------------------------------------------------------------------------------------------
 1. Maximum Nesting Depth of the Parentheses 🟩 ✅
 2. Remove Outermost Parentheses 🟩
 3. Valid Parentheses 🟩
