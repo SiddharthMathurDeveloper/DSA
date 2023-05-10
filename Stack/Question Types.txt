@@ -1,1 +1,13 @@
 
+[Parentheses]
+1. Maximum Nesting Depth of the Parentheses 🟩 ✅
+2. Remove Outermost Parentheses 🟩
+3. Valid Parentheses 🟩
+4. Minimum Add to Make Parentheses Valid 🟨
+5. Maximum Nesting Depth of Two Valid Parentheses Strings 🟨
+6. Reverse Substrings Between Each Pair of Parentheses 🟨
+7. Minimum Remove to Make Valid Parentheses 🟨
+8. Score of Parentheses 🟨
+9. Minimum Insertions to Balance a Parentheses String 🟨
+10. Check if a Parentheses String Can Be Valid 🟨
+11. Longest Valid Parentheses 🟥  
