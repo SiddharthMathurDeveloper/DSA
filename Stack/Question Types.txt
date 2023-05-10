@@ -2,7 +2,7 @@
 [Parentheses]
 --------------------------------------------------------------------------------------------------------
 1. Maximum Nesting Depth of the Parentheses 🟩 ✅
-2. Remove Outermost Parentheses 🟩
+2. Remove Outermost Parentheses 🟩 ✅
 3. Valid Parentheses 🟩
 4. Minimum Add to Make Parentheses Valid 🟨
 5. Maximum Nesting Depth of Two Valid Parentheses Strings 🟨
