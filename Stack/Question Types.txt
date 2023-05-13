@@ -6,7 +6,7 @@
 3. Valid Parentheses 🟩 ✅
 4. Minimum Add to Make Parentheses Valid 🟨 ✅
 5. Maximum Nesting Depth of Two Valid Parentheses Strings 🟨 ✅ [Retry]
-6. Reverse Substrings Between Each Pair of Parentheses 🟨
+6. Reverse Substrings Between Each Pair of Parentheses 🟨 ✅ [Retry]
 7. Minimum Remove to Make Valid Parentheses 🟨
 8. Score of Parentheses 🟨
 9. Minimum Insertions to Balance a Parentheses String 🟨
