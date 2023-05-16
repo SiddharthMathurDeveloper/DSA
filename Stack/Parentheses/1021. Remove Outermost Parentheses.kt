@@ -1,4 +1,5 @@
-// Apporoach [Count way]
+[Apporoach (Count Method)]
+------------------------------------------------------------------------------------------
 
 fun removeOuterParentheses(s: String): String {
         var resultString:String="";
