@@ -24,3 +24,38 @@ fun removeOuterParentheses(s: String): String {
    
    return resultString;
 }
+
+
+
+
+[Apporoach (Stack Method)]
+-----------------------------------------------------------------
+        
+  
+ fun removeOuterParentheses(s: String): String {
+     val mainStack: Stack<Char> = Stack<Char>();
+     var stringWithoutOuterParentheses: String = "";
+
+        for (character in s) {
+
+            if (mainStack.empty()) {
+                mainStack.push(character);
+            } 
+            else if ((mainStack.size == 1 && character == ')') && !mainStack.empty()) {
+                mainStack.pop();
+            }     
+            else if (character == '(') {
+                stringWithoutOuterParentheses += character;
+                mainStack.push(character);
+            }
+            else {
+                stringWithoutOuterParentheses += character;
+                mainStack.pop();
+            }
+        }
+
+        return stringWithoutOuterParentheses;
+        
+    }
+        
+        
