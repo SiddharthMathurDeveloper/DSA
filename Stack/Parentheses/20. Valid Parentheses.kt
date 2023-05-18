@@ -1,4 +1,5 @@
- 
+[Apporoach (Stack Method)]
+----------------------------------------------------------------- 
  
  fun isValid(s: String): Boolean {
         val mainStack: Stack<Char> = Stack<Char>();
