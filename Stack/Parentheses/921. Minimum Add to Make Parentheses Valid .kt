@@ -1,4 +1,6 @@
-
+[Apporoach (Count Method)]
+------------------------------------------------------------------------------------------
+ 
  fun minAddToMakeValid(s: String): Int {
 
         var countOpen:Int = 0;
