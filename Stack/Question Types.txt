@@ -12,3 +12,7 @@
 9. Minimum Insertions to Balance a Parentheses String 🟨
 10. Check if a Parentheses String Can Be Valid 🟨
 11. Longest Valid Parentheses 🟥  
+
+[Observations]
+--------------------------------------------------------------------------------------------------------
+1. If valid Test case are only possible or it is given that only vaild string are given then , Then we have observed that stack will only hold '(' [Open] ,And we have to pop when ')' [close]. The operation has to been done keep this in mind , But if the valid Test case may or may not exist then , this may or may not hold true in that case . So think in t.hat way according
