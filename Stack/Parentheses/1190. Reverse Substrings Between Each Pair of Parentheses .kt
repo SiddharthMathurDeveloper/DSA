@@ -1,3 +1,7 @@
+
+[Apporoach (Stack Method)]
+----------------------------------------------------------------- 
+
 fun reverseParentheses(s: String): String {
     val mainStack:Stack<Char>  = Stack<Char>();
 
