@@ -13,7 +13,7 @@
 10. Check if a Parentheses String Can Be Valid 🟨
 11. Longest Valid Parentheses 🟥  
   
-  [Thing i Learnt]
+  [Things I Learnt]
   --------------------------------------------------------------------------------------------------------
   1. Maximum Nesting Depth of the Parentheses
     - That Stack method and count method can be used here
