@@ -12,6 +12,30 @@
 9. Minimum Insertions to Balance a Parentheses String 🟨
 10. Check if a Parentheses String Can Be Valid 🟨
 11. Longest Valid Parentheses 🟥  
+  
+  [Thing i Learnt]
+  --------------------------------------------------------------------------------------------------------
+  1. Maximum Nesting Depth of the Parentheses
+    - That Stack method and count method can be used here
+    - How to use max function with stack and count method
+    - Stack size can be used as max size
+    - Stack of char type is used here
+    - '(' (open) is being stored in the stack and not ')' and getting poppped out when ')'(close) comes
+    -  Also given strings are valid [Given in question]
+    
+  2. Remove Outermost Parentheses
+      
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 [Observations]
 --------------------------------------------------------------------------------------------------------
