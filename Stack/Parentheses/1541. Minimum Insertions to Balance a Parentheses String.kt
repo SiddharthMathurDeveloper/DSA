@@ -1,3 +1,37 @@
+[Apporoach (Stack Method)]
+----------------------------------------------------------------- 
+        
+        
+        
+ fun minInsertions(s: String): Int {
+    val stack = Stack<Char>()
+    var count = 0
+    var i = 0
+    while (i < s.length) {
+        if (s[i] == '(') {
+            stack.push(s[i])
+        } else {
+            if (i + 1 < s.length && s[i + 1] == ')') {
+                i++
+            } else {
+                count++
+            }
+
+            if (!stack.isEmpty()) { // done operation on '('
+                stack.pop()
+            } else { // ))) this case
+                count++
+            }
+        }
+        i++
+    }
+    count += 2 * stack.size
+    return count
+}
+ 
+ //https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/solutions/3321179/java-stack-explained/
+
+
 [Apporoach (Count Method)]
 ------------------------------------------------------------------------------------------
 
