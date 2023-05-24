@@ -9,7 +9,7 @@
 6. Reverse Substrings Between Each Pair of Parentheses 🟨 ✅ [Retry]
 7. Minimum Remove to Make Valid Parentheses 🟨 ✅ [Retry]
 8. Score of Parentheses 🟨 ✅ [Retry] 
-9. Minimum Insertions to Balance a Parentheses String 🟨
+9. Minimum Insertions to Balance a Parentheses String 🟨 ✅ [Retry]
 10. Check if a Parentheses String Can Be Valid 🟨
 11. Longest Valid Parentheses 🟥  
   
