@@ -1,4 +1,5 @@
-
+[Apporoach (Count Method)]
+------------------------------------------------------------------------------------------
 
 fun minInsertions(s: String): Int {
         var parenthesesAddedAlready:Int=0;
