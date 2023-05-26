@@ -9,4 +9,12 @@
   [Things I Learnt]
   --------------------------------------------------------------------------------------------------------
   1281. Subtract the Product and Sum of Digits of an Integer
-
+    - How to do transvel of a number without converting to string
+    - How to get last element [1234] get 4 and hold remaining number
+      last number =  number%10
+      remaining number = number /10
+    - How to calcalute sum and product
+    
+   
+    
+  
