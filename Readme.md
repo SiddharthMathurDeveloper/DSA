@@ -18,5 +18,5 @@
 - Advance Graphs
 - Maths & Geometery
 - Bit Manipulation
-
+- Tries
 
