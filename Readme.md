@@ -4,6 +4,7 @@
 
 - Array and Hashing
 - Stack 
+- Matrix
 - Two pointer
 - Binary Search
 - Sliding window
