@@ -3,8 +3,11 @@
 [Mathematical Operations]
 --------------------------------------------------------------------------------------------------------
 2469. Convert the Temperature 
+2235.	Add Two Integers
+2413.	Smallest Even Multiple
 1281. Subtract the Product and Sum of Digits of an Integer
 1342. Number of Steps to Reduce a Number to Zero
+2652.	Sum Multiples
 
 
 
