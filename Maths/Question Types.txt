@@ -8,6 +8,7 @@
 1281. Subtract the Product and Sum of Digits of an Integer
 1342. Number of Steps to Reduce a Number to Zero
 2652.	Sum Multiples
+2520. Count the Digits That Divide a Number
 
 
 
