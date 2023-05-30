@@ -36,6 +36,7 @@
 [Infix, Prefix, Postfix or expression evaluation] [Easy]
 --------------------------------------------------------------------------------------------------------
 150. Evaluate Reverse Polish Notation 🟩 ✅
+Evaluation of Postfix Expression 🟩 ✅
 
 [System Design] [Tough]
 -------------------------------------------------------------------------------------------------------- 
