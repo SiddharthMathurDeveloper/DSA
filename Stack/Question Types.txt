@@ -40,7 +40,7 @@
 2. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [Retry] [GFG]
 3. Infix to Prefix 🟨 ✅
 4. Postfix to Infix 🟩
-5. Postfix to Prefix
+5. Postfix to Prefix 🟩
 
 
 
