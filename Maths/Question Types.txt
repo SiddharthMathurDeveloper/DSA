@@ -10,7 +10,7 @@
 2652.	Sum Multiples
 2520. Count the Digits That Divide a Number
 1688. Count of Matches in Tournament
-
+2160. Minimum Sum of Four Digit Number After Splitting Digits
 
 
 
