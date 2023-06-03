@@ -1,32 +1,64 @@
-public class Leetcode {
-    public static String postfixToInfix(String exp){
-        Stack<String> mainStack = new Stack<String>();
 
-        int expLength = exp.length();
 
-        for (Character character : exp.toCharArray()) {
-            if(Character.isLetterOrDigit(character)){
-                   mainStack.push(character.toString());
-            }
-            else{
-              String operand2 = mainStack.pop();  // stack way
-              String operand1 = mainStack.pop();
-              char operator = character;
+import java.util.Stack;
 
-              mainStack.push('(' + operand1 + operator + operand2 +')');
-            }
-
-            
-        }
-
-        String infixExpression = mainStack.pop();
-        return infixExpression;
-
-    }
+public class PostfixToInfix {
 
     public static void main(String[] args) {
-        String postfixExpression = "ab*cd/+";
-      System.out.println(  postfixToInfix(postfixExpression));
-        
+
+        Solution2 solution = new Solution2();
+
+        System.out.println(solution.postToInfix(("2 0 /")));
+
     }
+
+}
+
+class Solution2 {
+
+
+    public String postToInfix(String postfixExpression) {
+
+        Stack<String> mainStack = new Stack<String>();
+
+        for (Character character : postfixExpression.toCharArray()) {
+
+            if (character == ' ') {
+                continue;
+            }
+
+            else if (!mainStack.empty() && isOperator(character)) {
+                String secondOperand = mainStack.pop().toString();
+                String firstOperand = mainStack.pop().toString();
+
+                String infixExpression = "(" + firstOperand + character.toString() + secondOperand + ")";
+                mainStack.push(infixExpression);
+            }
+
+            else {
+                mainStack.push(character.toString());
+            }
+
+        }
+
+        String infixExpressionString = mainStack.pop();
+
+        return infixExpressionString;
+    }
+
+
+
+    private boolean isOperator(Character operator) {
+        switch (operator) {
+            case '+', '-', '*', '/':
+                return true;
+        }
+        return false;
+    }
+
+
+
+
+    
+
 }
