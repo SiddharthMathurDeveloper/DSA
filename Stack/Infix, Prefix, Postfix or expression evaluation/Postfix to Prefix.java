@@ -1,37 +1,68 @@
-public class Leetcode {
-    public static String postfixToInfix(String exp){
-        Stack<String> mainStack = new Stack<String>();
+package DSA.Stack.expressions;
 
-      
+import java.util.Stack;
 
-        for (Character character : exp.toCharArray()) {
-            if(Character.isLetterOrDigit(character)){
-                   mainStack.push(character.toString());
-            }
-            else{
-              String operand2 = mainStack.pop();  // stack way
-              String operand1 = mainStack.pop();
-              char operator = character;
-
-              mainStack.push( operator+operand1 + operand2);
-            }
-
-            
-        }
-        String infixExpression="";
-
-        while(!mainStack.empty()){
-            infixExpression+=mainStack.pop();
-        }
-
-        
-        return infixExpression;
-
-    }
+public class PostfixToPrefix {
 
     public static void main(String[] args) {
-        String postfixExpression = "ABC/-AK/L-*";
-      System.out.println(  postfixToInfix(postfixExpression));
-        
+
+        Solution3 solution = new Solution3();
+
+        System.out.println(solution.postToPrefix(("56+78-")));
+
     }
+
+}
+
+class Solution3 {
+
+
+    public String postToPrefix(String postfixExpression) {
+
+        Stack<String> mainStack = new Stack<String>();
+
+        for (Character character : postfixExpression.toCharArray()) {
+
+            if (character == ' ') {
+                continue;
+            }
+
+            else if (!mainStack.empty() && isOperator(character)) {
+                String secondOperand = mainStack.pop().toString();
+                String firstOperand = mainStack.pop().toString();
+                String operator = character.toString();
+
+                String prefixExpression = operator + firstOperand + secondOperand;
+                mainStack.push(prefixExpression);
+            }
+
+            else {
+                mainStack.push(character.toString());
+            }
+
+        }
+
+        String prefixExpressionString = "";
+
+        while (!mainStack.empty()) {
+            prefixExpressionString = mainStack.pop() + prefixExpressionString;
+        }
+
+        return prefixExpressionString;
+
+    }
+
+
+    
+
+
+
+    private boolean isOperator(Character operator) {
+        switch (operator) {
+            case '+', '-', '*', '/':
+                return true;
+        }
+        return false;
+    }
+
 }
