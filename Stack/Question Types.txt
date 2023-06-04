@@ -35,10 +35,13 @@
 
 [Infix, Prefix, Postfix or expression evaluation] [Easy]
 --------------------------------------------------------------------------------------------------------
-150. Evaluate Reverse Polish Notation 🟩 ✅
-1. Evaluation of Postfix Expression 🟩 ✅ [GFG]
-2. Postfix to Infix 🟩 ✅
-3. Postfix to Prefix 🟩 ✅
+150. Evaluate Reverse Polish Notation 🟩 ✅ [How to evaluate expression in postfix to expression] [Stack]
+
+1. Evaluation of Postfix Expression 🟩 ✅ [GFG] [How to evaluate expression in postfix to expression] [Stack]
+
+2. Postfix to Infix 🟩 ✅ [convert postfix to infix] [Stack]
+
+3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack] [VVVIIPP]
 
 
 
@@ -56,6 +59,7 @@
   [Things I Learnt]
   --------------------------------------------------------------------------------------------------------
    - In posfix questions put operands in stack and pop when operators come , then form the equation accordling.
+   
    - Compiler converts infix to postfix to solve the equation / expression , So try converting the expression to postfix if need to be. [VVIIPP] 
    
     
@@ -102,18 +106,4 @@
 
       
          
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-[Observations]
---------------------------------------------------------------------------------------------------------
-1. If valid Test case are only possible or it is given that only vaild string are given then , Then we have observed that stack will only hold '(' [Open] ,And we have to pop when ')' [close]. The operation has to been done keep this in mind , But if the valid Test case may or may not exist then , this may or may not hold true in that case . So think in t.hat way according
+ 
