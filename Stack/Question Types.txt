@@ -37,8 +37,8 @@
 --------------------------------------------------------------------------------------------------------
 150. Evaluate Reverse Polish Notation 🟩 ✅
 1. Evaluation of Postfix Expression 🟩 ✅ [GFG]
-2. Postfix to Infix 🟩
-3. Postfix to Prefix 🟩
+2. Postfix to Infix 🟩 ✅
+3. Postfix to Prefix 🟩 ✅
 
 
 
