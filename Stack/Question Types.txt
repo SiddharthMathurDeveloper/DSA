@@ -37,10 +37,14 @@
 --------------------------------------------------------------------------------------------------------
 150. Evaluate Reverse Polish Notation 🟩 ✅
 1. Evaluation of Postfix Expression 🟩 ✅ [GFG]
+2. Postfix to Infix 🟩
+3. Postfix to Prefix 🟩
+
+
+
 2. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [Retry] [GFG]
 3. Infix to Prefix 🟨 ✅
-4. Postfix to Infix 🟩
-5. Postfix to Prefix 🟩
+
 1106. Parsing A Boolean Expression 🟥  ✅ [Retry]
 
 
