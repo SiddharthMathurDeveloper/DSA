@@ -35,13 +35,13 @@
 
 [Infix, Prefix, Postfix or expression evaluation] [Easy]
 --------------------------------------------------------------------------------------------------------
-150. Evaluate Reverse Polish Notation 🟩 ✅ [How to evaluate expression in postfix to expression] [Stack]
+150. Evaluate Reverse Polish Notation 🟩 ✅ [How to evaluate expression in postfix to expression] [Stack] ⭐️
 
 1. Evaluation of Postfix Expression 🟩 ✅ [GFG] [How to evaluate expression in postfix to expression] [Stack]
 
 2. Postfix to Infix 🟩 ✅ [convert postfix to infix] [Stack]
 
-3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack] [VVVIIPP]
+3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack trick] [VVVIIPP] [Trick] ⭐️
 
 
 
@@ -49,8 +49,8 @@
 
 
 
-2. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [Retry] [GFG]
-3. Infix to Prefix 🟨 ✅
+4. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [Retry] [GFG]
+5. Infix to Prefix 🟨 ✅
 
 1106. Parsing A Boolean Expression 🟥  ✅ [Retry]
 
