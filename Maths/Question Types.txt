@@ -3,7 +3,15 @@
 [Mathematical Operations]
 --------------------------------------------------------------------------------------------------------
 
-2413.	Smallest Even Multiple 🟩 ✅
+2413.	Smallest Even Multiple 🟩 ✅ 
+   
+   
+   
+   
+   [Things I Learnt]
+  --------------------------------------------------------------------------------------------------------
+   2413.	Smallest Even Multiple
+    - Smallest Even Multiple of n , if 2 is given is has one of the multiple's then if even result is n else odd 2*n; 
 
 
 
