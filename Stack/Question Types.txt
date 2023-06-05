@@ -18,13 +18,15 @@
 
 3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack trick] [VVVIIPP] [Trick] ⭐️
 
-4. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
-
-
-
-
+4. Infix to Postfix [Shunting Yard algorithm][Stack to hold the operator of higher precedance and pop when lower comes above it] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
 
 5. Infix to Prefix 🟨 ✅
+
+
+
+
+
+
 
 1106. Parsing A Boolean Expression 🟥  ✅ [Retry]
 
@@ -35,6 +37,8 @@
    - In posfix questions put operands in stack and pop when operators come , then form the equation accordling.
    
    - Compiler converts infix to postfix to solve the equation / expression , So try converting the expression to postfix if need to be. [VVIIPP] 
+   
+   
    
     
   
