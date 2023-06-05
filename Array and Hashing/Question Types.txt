@@ -3,9 +3,9 @@
 
 [Hashing] 
 --------------------------------------------------
-  771. Jewels and Stones [used ] [Hashmap used to find if element exist or not if yes +1 ] [O(n^2) -> O(n)] [Hashmap + find]
+  771. Jewels and Stones [used ] [Hashmap used to find if element exist or not if yes +1 ] [O(n^2) -> O(n)] [Hashmap + find] 🟩 ✅
   
-  1365. How Many Numbers Are Smaller Than the Current Number [First sorted then used hashmap to find index of elements store in hashmapand put inside ans array] [O(n^2) -> O(NlogN)+O(N) ] [Sorting + Hashmap + find]
+  1365. How Many Numbers Are Smaller Than the Current Number [First sorted then used hashmap to find index of elements store in hashmapand put inside ans array] [O(n^2) -> O(NlogN)+O(N) ] [Sorting + Hashmap + find] 🟩 ✅
 
   
   
