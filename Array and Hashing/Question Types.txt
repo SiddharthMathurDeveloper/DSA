@@ -28,11 +28,11 @@
  - First sorting then using hashmap can also be used
  
  
- Hashing - find
+ Hashing - find [771 , ]
          - counting
          - Freq
          - Mapping element to some values
-         - Sorting 
+         - Sorting [1365 , ]
 
 
 
