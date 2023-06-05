@@ -1,5 +1,10 @@
 
 
 
-[H]
+[Hashing + counting/freq] 
+--------------------------------------------------
+771. Jewels and Stones [frequency used has count] [Hashmap]
+
+
+
 
