@@ -1,10 +1,21 @@
 
 
 
-[Hashing + counting/freq] 
+[Hashing + counting/freq/find] 
 --------------------------------------------------
-771. Jewels and Stones [frequency used has count] [Hashmap]
+  771. Jewels and Stones [used ] [Hashmap used to find if element exist or not if yes +1 ] [O(n^2) -> O(n)] [Hashmap + find ]
 
+
+
+
+
+
+
+
+
+[Thing i learned]
+--------------------------------------------------
+ - Hashing can be used for counting the freq or find a element in O(1).
 
 
 
