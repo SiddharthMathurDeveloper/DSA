@@ -18,7 +18,7 @@
 
 3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack trick] [VVVIIPP] [Trick] ⭐️
 
-4. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [GFG] [Monotoic Stack] [GFG] ⭐️
+4. Infix to Postfix [Shunting Yard algorithm] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
 
 
 
