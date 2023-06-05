@@ -1,3 +1,38 @@
+
+// brute force
+class Solution {
+    public int[] smallerNumbersThanCurrent(int[] nums) {
+
+        // brute force
+            int num_length = nums.length;
+        int[] ans = new int[num_length];
+
+        for (int i = 0; i < num_length; i++) {
+            int greaterElement = 0;
+
+            for (int j = 0; j < num_length; j++) {
+
+                if (nums[i] > nums[j]) {
+                    greaterElement++;
+                }
+            }
+            ans[i] = greaterElement;
+
+        }
+
+
+        return ans;
+        
+        
+    }
+}
+
+
+
+
+
+
+// opimtezed
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
          int num_length =  nums.length;
