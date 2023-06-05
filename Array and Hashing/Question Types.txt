@@ -1,9 +1,18 @@
 
 
 
-[Hashing + counting/freq/find] 
+[Hashing] 
 --------------------------------------------------
-  771. Jewels and Stones [used ] [Hashmap used to find if element exist or not if yes +1 ] [O(n^2) -> O(n)] [Hashmap + find ]
+  771. Jewels and Stones [used ] [Hashmap used to find if element exist or not if yes +1 ] [O(n^2) -> O(n)] [Hashmap + find]
+  
+  1365. How Many Numbers Are Smaller Than the Current Number [First sorted then used hashmap to find index of elements and put inside ans array] [O(n^2) -> O(NlogN)+O(N) ] [Sorting + Hashmap + find]
+
+  
+  
+  
+  
+  
+
 
 
 
@@ -16,6 +25,14 @@
 [Thing i learned]
 --------------------------------------------------
  - Hashing can be used for counting the freq or find a element in O(1).
+ - First sorting then using hashmap can also be used
+ 
+ 
+ Hashing - find
+         - counting
+         - Freq
+         - Mapping element to some values
+         - Sorting 
 
 
 
