@@ -10,7 +10,7 @@
 
 [Infix, Prefix, Postfix or expression evaluation] [Easy]
 --------------------------------------------------------------------------------------------------------
-150. Evaluate Reverse Polish Notation 🟩 ✅ [How to evaluate expression in postfix to expression] [Stack] ⭐️
+150. Evaluate Reverse Polish Notation 🟨 ✅ [How to evaluate expression in postfix to expression] [Stack] ⭐️
 
 1. Evaluation of Postfix Expression 🟩 ✅ [GFG] [How to evaluate expression in postfix to expression] [Stack]
 
