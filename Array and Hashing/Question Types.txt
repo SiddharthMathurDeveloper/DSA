@@ -34,7 +34,7 @@
  - Hashing can be used for counting the freq or find a element in O(1).
  - First sorting then using hashmap can also be used
  - Hashing can be used mapping things
- - Set are also closely related to Hashmaps
+ - Set are also closely related to Hashmaps / Store unique element , same thing can be also be done with hashmap , watch out
  
  
  Hashing - find [771 , ]
