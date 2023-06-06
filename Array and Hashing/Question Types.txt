@@ -42,6 +42,11 @@
          - Freq
          - Mapping element to some values [2325,]
          - Sorting [1365 , ]
+         - Maths
+             - sum of n numbers [n(n-1)/2]
+             
+             
+             
 
 
 HashSet - unique [1832]
