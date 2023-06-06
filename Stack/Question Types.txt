@@ -22,6 +22,7 @@
 
 5. Infix to Prefix 🟨 ✅
 
+6 . Prefix to Infix 🟩 ✅
 
 
 
