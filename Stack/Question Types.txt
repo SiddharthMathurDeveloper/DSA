@@ -20,11 +20,11 @@
 
 4. Infix to Postfix Conversion [Shunting Yard algorithm][Stack to hold the operator of higher precedance and pop when lower comes above it] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
 
-5. Infix to Prefix Conversion🟨 ✅
+5. Infix to Prefix Conversion 🟨 ✅ [Stack]
 
-6 . Prefix to Infix Conversion 🟩 ✅
+6 . Prefix to Infix Conversion 🟩 ✅ [Stack]
 
-7. Prefix to Postfix Conversion 🟩 ✅
+7. Prefix to Postfix Conversion 🟩 ✅ [Stack]
  
 
 
