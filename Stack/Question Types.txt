@@ -14,15 +14,18 @@
 
 1. Evaluation of Postfix Expression 🟩 ✅ [GFG] [How to evaluate expression in postfix to expression] [Stack]
 
-2. Postfix to Infix 🟩 ✅ [convert postfix to infix] [Stack]
+2. Postfix to Infix Conversion 🟩 ✅ [convert postfix to infix] [Stack]
 
-3. Postfix to Prefix 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack trick] [VVVIIPP] [Trick] ⭐️
+3. Postfix to Prefix Conversion 🟩 ✅ [convert postfix to Prefix] [Stack + reverse code of stack trick] [VVVIIPP] [Trick] ⭐️
 
-4. Infix to Postfix [Shunting Yard algorithm][Stack to hold the operator of higher precedance and pop when lower comes above it] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
+4. Infix to Postfix Conversion [Shunting Yard algorithm][Stack to hold the operator of higher precedance and pop when lower comes above it] 🟨 ✅ [GFG] [Monotoic Stack + BODMAS + Precedence Table] [GFG] ⭐️
 
-5. Infix to Prefix 🟨 ✅
+5. Infix to Prefix Conversion🟨 ✅
 
-6 . Prefix to Infix 🟩 ✅
+6 . Prefix to Infix Conversion 🟩 ✅
+
+7. Prefix to Postfix Conversion 🟩 ✅
+ 
 
 
 
