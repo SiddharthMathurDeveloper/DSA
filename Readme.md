@@ -22,3 +22,6 @@
 - Bit Manipulation
 - Tries
 
+
+
+Patterns :-
