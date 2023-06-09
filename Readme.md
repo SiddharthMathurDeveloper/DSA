@@ -25,3 +25,4 @@
 
 
 Patterns :-
+Array & Hashmap/Hashset
