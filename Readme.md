@@ -26,6 +26,6 @@
 
 Patterns :-
 Array & Hashmap/Hashset
-- [ ] Option 1
-- [x] Option 2
-- [ ] Option 3
+- [ ] Freq/Count
+- [ ] Mapping
+- [ ] 
