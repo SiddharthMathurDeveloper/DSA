@@ -1,6 +1,9 @@
 
 
-/* [Brute Force] Time - O(N) Space - O(N) */ 
+/* 
+  Brute Force -> Time - O(N) Space - O(N) 
+
+*/ 
   
 class Solution {
     public int[] shuffle(int[] nums, int n) {
@@ -29,9 +32,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 /* 
-  [optimized] Time - O(N) Space - O(1) 
+  optimized -> [Time - O(N) Space - O(1)]
 
-  TAG -> [Maths]
+  TAG -> [Maths ,Inplace]
+
+  Trick -> How store 2 values within one index using simple maths(divide and mod)
 
 */  
 
