@@ -1,5 +1,12 @@
 
 [ Array + Maths ]
 ---------------------------------------
-1470. Shuffle the Array
+1470. Shuffle the Array [mutiply the n+i values with 10000 in first loop [2,5,1,20003,50004,10007] new array becomes this in second extract the values x and y , x by nums[i+n]/10000 first value 2 , y by  nums[2*i+1] = nums[i+n]%10000 value 3 , do this for each element (20003) this number stores both first and second value  ]
+
+
+  Things I Learned
+  ---------------------------------------
+  -> Maths is used for inplace operation (Store values in given array only no extra space)
+      
+      -> 1470. Shuffle the Array  [store formula (nums[i]*10000) , first value [x] formula( nums[i+n]/10000 ) , Second value [y] formula( nums[i+n]%10000 )]
 
