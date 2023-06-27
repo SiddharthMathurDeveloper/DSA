@@ -37,9 +37,31 @@
 
 
 
-[ Array + Hashing(Freq) + Maths  ]
+[ Array + Hashing + Maths  ]
 ---------------------------------------
-1512. Number of Good Pairs ⭐
-  -> 
+1512. Number of Good Pairs ⭐ [Hashing(Freq/count)]
+  -> Store the freq in some data structure that can hold freq Best is hashmap 
+  -> Use hashmap store the freq/count
+  -> That freq will act of n in sum of n number formula (Sum of n natural numbers(n*(n-1)/2)) to get sum
+  -> return that sum as answer 
+
+
+
+  Things I Learned
+  ---------------------------------------
+  -> Maths & Hashing is used for Doing something with store value of freq/count 
+
+    -> 1512. Number of Good Pairs 
+          -> How Sum of n natural numbers (n*(n-1)/2) can be used to find sum based of a number based on it frequency
+    
+
+
+
+
+
+
+
+
+  
         
 
