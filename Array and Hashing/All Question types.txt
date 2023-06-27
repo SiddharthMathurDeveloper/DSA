@@ -14,14 +14,20 @@
 
 
 
-
-
 [ Array + Maths ]
 ---------------------------------------
 1470. Shuffle the Array ⭐
 1920. Build Array from Permutation ⭐
 
 
-[ Array + Hashing(Freq) + Maths  ]
+
+[ Array + Hashing(Freq/Count) ]
+---------------------------------------
+771. Jewels and Stones
+
+
+
+
+[ Array + Hashing(Freq/Count) + Maths  ]
 ---------------------------------------
 1512. Number of Good Pairs ⭐
