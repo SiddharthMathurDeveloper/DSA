@@ -6,7 +6,7 @@
   -> In second loop extract the values x and y ,
   -> x by nums[i+n]/10000 first value 2 , y by  nums[2*i+1] = nums[i+n]%10000 value 3 , do this for each element (20003) this number stores both first and second value
 
-
+1920. Build Array from Permutation ⭐
 
  
 
@@ -20,4 +20,13 @@
            -> Store formula (nums[i]*10000)  
            -> Get first value [x] formula( nums[i+n]/10000 ) 
            -> Get Second value [y] formula( nums[i+n]%10000 )
+
+      -> 1920. Build Array from Permutation
+          -> How to store 2 values in one index
+          -> Store formula (nums[i] + (n*(nums[nums[i]]%n)))  [nums[nums[i]] is given in question]
+          -> Get new value by ( nums[i]/n )
+          -> Get old value by ( nums[i]%n )
+  
+          
+        
 
