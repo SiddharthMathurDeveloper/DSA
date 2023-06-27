@@ -1,6 +1,8 @@
 [ Array ]
 ---------------------------------------
 2011. Final Value of Variable After Performing Operations
+1480. Running Sum of 1d Array
+
 
 [ Array + Concat ]
 ---------------------------------------
