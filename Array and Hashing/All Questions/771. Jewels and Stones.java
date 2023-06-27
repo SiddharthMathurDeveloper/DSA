@@ -1,9 +1,15 @@
 
 
+/* 
+
+  Brute Force & Optimized -> Time - O(N) Space - O(N) 
+  
+*/ 
+
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
       
-        Map<Character,Integer>freq_map = new HashMap<Character,Integer>();
+        Map<Character,Integer>freq_map = new HashMap<Character,Integer>(); // Used to store frequnecy of stones
 
         int distinctJewels=0;
         for(char stone:stones.toCharArray()){
