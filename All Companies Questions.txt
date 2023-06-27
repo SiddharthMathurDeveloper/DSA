@@ -7,3 +7,5 @@
 1512. Number of Good Pairs [ Microsoft(3) , Amazon(3) , Adobe(2) ]
 
 1431. Kids With the Greatest Number of Candies [ Amazon(3) ] 
+
+1480. Running Sum of 1d Array [ Microsoft(2) ]
