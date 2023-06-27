@@ -24,21 +24,21 @@ class Solution {
         
         for(int candide:candies){ // Loop over the candies
             
-            if(candide+extraCandies>=maxi){
+            if(candide+extraCandies>=maxi){ // if candide+extraCandies is greater than max value put in  boolCandies as True
                 
-                boolCandies.add(true);
+                boolCandies.add(true); // add True to boolCandies
                 
             }
                 
-            else{
+            else{ // else candide+extraCandies is smaller than max value put in  boolCandies as False
                 
-                boolCandies.add(false);
+                boolCandies.add(false); // add False to boolCandies
                 
             }
         }
 
 
-        return boolCandies;
+        return boolCandies; // Return the result
 
 
     }
