@@ -1,5 +1,8 @@
 
-
+/* 
+  Brute Force & Op -> Time - O(N) Space - O(N) 
+  
+*/ 
 
 class Solution {
     public int[] getConcatenation(int[] nums) {
