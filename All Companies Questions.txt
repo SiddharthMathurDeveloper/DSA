@@ -1,3 +1,7 @@
 1470. Shuffle the Array [ Apple(3) , Amazon(2) ]
+
 1920. Build Array from Permutation [ Apple(5) , Adobe(3) , Uber(2) , Google(2) ]
+
 1929. Concatenation of Array [ Google(4) , Adobe(2) ]
+
+1512. Number of Good Pairs [ Microsoft(3) , Amazon(3) , Adobe(2) ]
