@@ -13,3 +13,7 @@
 1470. Shuffle the Array ⭐
 1920. Build Array from Permutation ⭐
 
+
+[ Array + Hashing(Freq) + Maths  ]
+---------------------------------------
+1512. Number of Good Pairs ⭐
