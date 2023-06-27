@@ -19,7 +19,7 @@ class Solution {
             }
         }
 
-        return sumOfAfterOperations;
-        
+        return sumOfAfterOperations; // Return the sum 
+         
     }
 }
