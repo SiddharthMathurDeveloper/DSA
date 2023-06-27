@@ -1,5 +1,10 @@
 
 
+
+/* 
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
+*/ 
+
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
     
