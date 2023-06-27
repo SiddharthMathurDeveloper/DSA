@@ -19,7 +19,7 @@ class Solution {
           
         }
 
-        return  concatedNums;
+        return  concatedNums; // return the result
       
     }
 }
