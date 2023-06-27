@@ -11,3 +11,5 @@
 1480. Running Sum of 1d Array [ Microsoft(2) ]
 
 1816. Truncate Sentence [ Bloomberg(1) ]
+
+771. Jewels and Stones [ Amazon(3) , Adobe(2) , Google(2) ]
