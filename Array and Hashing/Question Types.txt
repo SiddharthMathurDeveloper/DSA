@@ -20,7 +20,8 @@
 
   Things I Learned
   ---------------------------------------
-  -> Maths is used for inplace operation (Store values in given array only no extra space)
+  -> Maths is used for inplace operation (Store values in given array only no extra space) 
+    [a = bq + r] (Euclid's division lemma)
 
       -> 1470. Shuffle the Array  
            -> How to store 2 values in one index 
