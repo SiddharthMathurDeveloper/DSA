@@ -48,7 +48,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
           
-            nums[i] = nums[i] + (n*(nums[nums[i]]%n)); //storing two values in one place using the given thing and mod 
+            nums[i] = nums[i] + (n*(nums[nums[i]]%n)); // storing two values in one place by adding nums[i] to this custom formula (n*(nums[nums[i]]%n)) [this help us store value like[0,8,13] if we want original     value we get by doing mod new value we get by doing / eg -> [0,2,1,5,3,4] orginal after [0,8,13,.,.,] on 13 this 13 store two values (when we divide 13/n->6 = 2 (need value)  , we mod 13%n->6 =1 (orginal value))]
            
         }
 
