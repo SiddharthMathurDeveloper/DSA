@@ -1,1 +1,2 @@
 1470. Shuffle the Array [ Apple(3) , Amazon(2) ]
+1920. Build Array from Permutation [ Apple(5) , Adobe(3) , Uber(2) , Google(2) ]
