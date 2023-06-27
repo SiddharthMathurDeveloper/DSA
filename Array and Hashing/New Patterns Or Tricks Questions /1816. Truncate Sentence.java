@@ -4,9 +4,9 @@
 
   Brute Force & Optimized -> Time - O(N) Space - O(1) 
   
-   TAG -> [String]
+   TAG -> [String , Counter ]
 
-   Trick -> Get the freq of elements put in hashmap these freq will n then to get the sum put in formula of [sum of nth number of same kind((n*(n-1))/2)]
+   Trick -> Loop over the again string when u find ' '(space) word++ when word value==k then break
   
 */ 
 
