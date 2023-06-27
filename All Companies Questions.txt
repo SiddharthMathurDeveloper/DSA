@@ -9,3 +9,5 @@
 1431. Kids With the Greatest Number of Candies [ Amazon(3) ] 
 
 1480. Running Sum of 1d Array [ Microsoft(2) ]
+
+1816. Truncate Sentence [ Bloomberg(1) ]
