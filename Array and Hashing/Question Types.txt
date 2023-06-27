@@ -8,7 +8,12 @@
 
 1920. Build Array from Permutation ⭐
   -> To accomplish this task, we're going to use the fact that if we have a number of the form a = qb + r, where b and r are not multiples of q and r < q, then we can extract b and r with the following:
-  ->  
+  ->  Let, size of array = n , original number = a , final number = b
+  -> So we will store a = a + n*b
+  -> On taking a%n, we will get a On doing a/n, we will get b
+  -> Here the b that we are using is actually an a and there is a chance that it might be an a that is updated (final number) To get a from a, we use a%n So, here it will be b%n
+  -> Finally, our equation becomes a=a +n(b%n) ,  In the question a=nums[i] and b=nums[nums[i]]
+  -> So finally, the equation becomes nums[i] = nums[i] + n * (nums[nums[i]]%n)
 
  
 
