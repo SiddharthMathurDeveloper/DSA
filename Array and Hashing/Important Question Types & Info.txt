@@ -59,7 +59,22 @@
 [ String ]
 ---------------------------------------
 1816. Truncate Sentence ⭐
+  -> Make a word variable of int type , loop over the given String
+  -> if letter is whitespace then word ++ , then word==limit break
+  -> in the loop keeping append to the result string the letter
+  -> return the result string in the end
 
+
+
+  Things I Learned
+  ---------------------------------------
+  -> How to count words till a limit
+
+    -> 1816. Truncate Sentence ⭐
+        -> Getting the limit words
+    
+
+    
 
 
 
