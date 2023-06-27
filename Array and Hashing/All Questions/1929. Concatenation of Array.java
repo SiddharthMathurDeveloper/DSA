@@ -1,6 +1,6 @@
 
 /* 
-  Brute Force & Optimized -> Time - O(N) Space - O(N) 
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
   
 */ 
 
