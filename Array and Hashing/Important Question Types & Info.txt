@@ -34,7 +34,12 @@
           -> Store formula (nums[i] + (n*(nums[nums[i]]%n)))  [nums[nums[i]] is given in question]
           -> Get new value by ( nums[i]/n )
           -> Get old value by ( nums[i]%n )
-  
-          
+
+
+
+[ Array + Hashing(Freq) + Maths  ]
+---------------------------------------
+1512. Number of Good Pairs ⭐
+  -> 
         
 
