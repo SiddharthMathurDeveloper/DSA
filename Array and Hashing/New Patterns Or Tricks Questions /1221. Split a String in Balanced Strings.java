@@ -4,9 +4,9 @@
 
   Brute Force & Optimized -> Time - O(N) Space - O(1) 
   
-   TAG -> [String , Letter counter ]
+   TAG -> [String , Letter counter , conditions ]
 
-   Trick -> Loop over the again string when u find ' '(space) word++ when word value==k then break
+   Trick -> 
   
 */ 
 
