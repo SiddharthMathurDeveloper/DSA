@@ -1,4 +1,14 @@
 
+/* 
+
+   Brute Force & Optimized -> Time - O(N) Space - O(1) 
+  
+   TAG -> [String , Jumping ]
+
+   Trick -> Loop over the given string if  G comes increase i by 1 , if '(' and i+1') increase by i+=2 , else (al) only this option remain increase by i+=4
+  
+*/ 
+
 
 class Solution {
     public String interpret(String command) {
