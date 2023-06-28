@@ -20,6 +20,12 @@
 1431. Kids With the Greatest Number of Candies [Array]
 
 
+[ String + Word Count]
+---------------------------------------
+Truncate Sentence
+
+
+
 
 [ Array + Maths ]
 ---------------------------------------
