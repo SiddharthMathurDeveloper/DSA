@@ -64,6 +64,11 @@
   -> in the loop keeping append to the result string the letter
   -> return the result string in the end
 
+1678. Goal Parser Interpretation ⭐
+  ->  Loop over the Given String , Make result variable of String value to store the ans
+  -> If u find 'G' append G to result i+=1
+  -> If u Find '(' on i check i+1 if ')' found on i+1 then i+=2 append o else if '(' and i+1 not ')' then it must be '(al)' so then  i+=4 append "al" to result
+  -> Return the result after the loop
 
 
   Things I Learned
@@ -72,6 +77,13 @@
 
     -> 1816. Truncate Sentence ⭐
         -> Getting the limit words
+
+  -> How to Jump over Element when needed to be
+
+    -> 1678. Goal Parser Interpretation ⭐
+      -> Jump by 1 ,2 , 4 depending on conditions which are though from the question
+      
+
     
 
     
