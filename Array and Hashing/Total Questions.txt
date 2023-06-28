@@ -22,6 +22,7 @@
 
 2114. Maximum Number of Words Found in Sentences [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/] [String + Word Count]
 
+1221. Split a String in Balanced Strings [https://leetcode.com/problems/split-a-string-in-balanced-strings/] [String , Letter counter , conditions ]⭐
 
 [Hashing]
 
