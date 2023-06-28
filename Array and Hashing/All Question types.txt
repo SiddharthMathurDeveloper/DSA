@@ -1,27 +1,27 @@
 [ Array/String ]
 ---------------------------------------
 2011. Final Value of Variable After Performing Operations [String]
-1480. Running Sum of 1d Array
+1480. Running Sum of 1d Array [Array]
 
 
 
 [ Array/String + Concat ]
 ---------------------------------------
-1929. Concatenation of Array
+1929. Concatenation of Array [Array]
 1108. Defanging an IP Address [String]
 
 
 
 [ Array + Max ]
 ---------------------------------------
-1431. Kids With the Greatest Number of Candies
+1431. Kids With the Greatest Number of Candies [Array]
 
 
 
 [ Array + Maths ]
 ---------------------------------------
-1470. Shuffle the Array ⭐
-1920. Build Array from Permutation ⭐
+1470. Shuffle the Array ⭐ [Array]
+1920. Build Array from Permutation ⭐ [Array]
 
 
 
@@ -33,4 +33,26 @@
 
 [ Array + Hashing(Freq/Count) + Maths  ]
 ---------------------------------------
-1512. Number of Good Pairs ⭐
+1512. Number of Good Pairs ⭐ [Array]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
