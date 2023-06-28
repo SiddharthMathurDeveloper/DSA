@@ -2,13 +2,16 @@
 ---------------------------------------
 2011. Final Value of Variable After Performing Operations [String]
 1480. Running Sum of 1d Array [Array]
+1108. Defanging an IP Address [String]
+1678. Goal Parser Interpretation [String]
+
 
 
 
 [ Array/String + Concat ]
 ---------------------------------------
 1929. Concatenation of Array [Array]
-1108. Defanging an IP Address [String]
+
 
 
 
