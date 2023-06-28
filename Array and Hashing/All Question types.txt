@@ -3,7 +3,7 @@
 2011. Final Value of Variable After Performing Operations [String]
 1480. Running Sum of 1d Array [Array]
 1108. Defanging an IP Address [String]
-1678. Goal Parser Interpretation [String]
+1678. Goal Parser Interpretation [String] ⭐
 
 
 
@@ -20,12 +20,6 @@
 1431. Kids With the Greatest Number of Candies [Array]
 
 
-[ String + Word Count]
----------------------------------------
-1816. Truncate Sentence ⭐
-2114. Maximum Number of Words Found in Sentences [+ Max]
-
-
 
 
 [ Array + Maths ]
@@ -35,9 +29,26 @@
 
 
 
+
+[ String + Word Count]
+---------------------------------------
+1816. Truncate Sentence ⭐
+2114. Maximum Number of Words Found in Sentences [+ Max]
+
+
+
+
+[String + Letter Count]
+---------------------------------------
+1221. Split a String in Balanced Strings ⭐ [+ conditions]
+
+
+
+
 [ Array/String + Hashing(Freq/Count) ]
 ---------------------------------------
 771. Jewels and Stones [String]
+
 
 
 
