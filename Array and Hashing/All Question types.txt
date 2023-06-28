@@ -23,6 +23,7 @@
 [ String + Word Count]
 ---------------------------------------
 1816. Truncate Sentence ⭐
+2114. Maximum Number of Words Found in Sentences [+ Max]
 
 
 
