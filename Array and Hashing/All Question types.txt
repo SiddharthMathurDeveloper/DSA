@@ -22,7 +22,7 @@
 
 [ String + Word Count]
 ---------------------------------------
-Truncate Sentence
+1816. Truncate Sentence ⭐
 
 
 
