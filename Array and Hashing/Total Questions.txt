@@ -12,13 +12,15 @@
 
 1480. Running Sum of 1d Array [https://leetcode.com/problems/running-sum-of-1d-array/] [Array + Inplace]
 
-1816. Truncate Sentence [https://leetcode.com/problems/truncate-sentence/description/] [String + counter] ⭐
+1816. Truncate Sentence [https://leetcode.com/problems/truncate-sentence/description/] [String + Word Count] ⭐
 
 1512. Number of Good Pairs [https://leetcode.com/problems/number-of-good-pairs/] [Array + Hashing + Maths]⭐
 
 1108. Defanging an IP Address [https://leetcode.com/problems/defanging-an-ip-address/] [String + concat]
 
 1678. Goal Parser Interpretation [https://leetcode.com/problems/goal-parser-interpretation/description/] [String + Jumping Trick]⭐
+
+2114. Maximum Number of Words Found in Sentences [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/] [String + Word Count]
 
 
 [Hashing]
