@@ -1,5 +1,17 @@
 
 
+/* 
+
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
+  
+   TAG -> [String , Letter counter ]
+
+   Trick -> Loop over the again string when u find ' '(space) word++ when word value==k then break
+  
+*/ 
+
+
+
 class Solution {
     public int balancedStringSplit(String s) {
         int countRight=0;
