@@ -24,6 +24,9 @@
 
 1221. Split a String in Balanced Strings [https://leetcode.com/problems/split-a-string-in-balanced-strings/] [String , Letter counter , conditions ]⭐
 
+1844. Replace All Digits with Characters [https://leetcode.com/problems/replace-all-digits-with-characters/] [String , int to char,char to int ]
+
+
 [Hashing]
 
 771. Jewels and Stones [https://leetcode.com/problems/jewels-and-stones/description/]   [Array + Hashing(Freq/Count)]
