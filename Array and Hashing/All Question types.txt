@@ -1,13 +1,16 @@
 [ Array/String ]
 ---------------------------------------
 2011. Final Value of Variable After Performing Operations [String]
-1108. Defanging an IP Address [String]
 1480. Running Sum of 1d Array
 
 
-[ Array+ Concat ]
+
+[ Array/String + Concat ]
 ---------------------------------------
 1929. Concatenation of Array
+1108. Defanging an IP Address [String]
+
+
 
 [ Array + Max ]
 ---------------------------------------
@@ -25,8 +28,6 @@
 [ Array/String + Hashing(Freq/Count) ]
 ---------------------------------------
 771. Jewels and Stones [String]
-
-
 
 
 
