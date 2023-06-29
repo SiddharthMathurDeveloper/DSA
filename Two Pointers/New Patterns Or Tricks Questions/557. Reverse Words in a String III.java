@@ -1,4 +1,12 @@
+/* 
 
+  Brute Force & Optimized -> Time - O(N^2) Space - O(1) 
+  
+   TAG -> [Two pointer , String ]
+
+   Trick -> To do a reverse of word , keep doing the swap of first (ith) index and last (jth) index till i<=j or i<j till the middle point
+  
+*/ 
 
 
 class Solution {
