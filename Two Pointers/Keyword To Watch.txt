@@ -1,4 +1,4 @@
 
 -> Palindrome
 -> Reverse / Reversal
-  -> Using Swapping trick is used 
+  -> Swapping Trick 
