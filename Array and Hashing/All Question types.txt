@@ -52,7 +52,7 @@
 
 
 
-[ Array + Hashing(Freq/Count) + Maths  ]
+[ Array/String + Hashing(Freq/Count) + Maths  ]
 ---------------------------------------
 1512. Number of Good Pairs ⭐ [Array]
 
