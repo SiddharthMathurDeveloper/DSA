@@ -1,7 +1,6 @@
-[ Two Pointer (Same Direction) + String ]
+[ Two Pointer (Opposite Direction) + String ]
 --------------------------------------------------
 2697. Lexicographically Smallest Palindrome
-
 
 
 
