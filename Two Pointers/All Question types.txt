@@ -5,7 +5,7 @@
 
 
 
-[ Two Pointer (Opposite Direction) + String + Reverse ]
+[ Two Pointer (Opposite Direction) + String + Swapping ]
 --------------------------------------------------
-557. Reverse Words in a String III [ + Swapping]
+557. Reverse Words in a String III 
 
