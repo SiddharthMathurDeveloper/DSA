@@ -86,7 +86,7 @@
         -> Getting the limit words
 
 
-  -> How to Jump over Element when needed to be
+  -> How to Jump over Element when needed to be [ Jumping Trick ]
 
     -> 1678. Goal Parser Interpretation ⭐
         -> Jump by 1 ,2 , 4 depending on conditions which are though from the question
@@ -98,6 +98,8 @@
         -> Observe the pattern of substring 
         -> Count method
         -> Substring Problem 
+
+
 
 
       
