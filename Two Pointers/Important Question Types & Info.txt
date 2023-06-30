@@ -2,16 +2,18 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
                    https://leetcode.com/tag/two-pointers/discuss/1905453/Master-in-Two-Pointer
 
 
-[ Two Pointer + String + Reversal ]
+[ Two Pointer(Opposite Direction) + String + Reversal ]
 ---------------------------------------
 
 557. Reverse Words in a String III ⭐ [ Swapping trick ]
-  -> Loop over the given String till that length(included) why because we also wnat last word , as if we didn't do it we won't get the last word to get processed in same loop 
+  
+  -> Loop over the given String till that length(included) why because we also want last word , as if we didn't do it we won't get the last word to get processed in same loop,
       has we are getting word after ' ' empty char but in last word there is no empty char so, we do have the word/string but can't do in same loop in not to equal , a new loop must be created
   -> When we comes across ' ' we got the word reverse it and make word string again empty to get the new word move i++ to ignore ' ' move to next letter 
   -> When i==word we have the last word reverse it and return from there / or break and return 
   -> Keeping the letter adding to word expect ' 'empty
-  -> To reverse a String just take first and last values and swap them
+  -> To reverse a String just take first and last values and swap them So , make pointer i=0 (START) and pointer j=LengthOfString-1 (END)
+  -> i++ , and j-- moving them till i<j or i<=j to reverse the string 
 
    Things I Learned
   ---------------------------------------
@@ -20,3 +22,26 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
   -> 557. Reverse Words in a String III ⭐
     -> Getting last word using till end of the string (<=) not only <
     -> How to a reversal of a String
+
+
+
+
+[Two Pointer(Same Direction) + String + Alternately move]
+------------------------------------------------------------
+
+1768. Merge Strings Alternately ⭐ [ Alternately move trick]
+  -> Loop over the given String , start both pointer at the start i=0,j=0; , 
+  -> Make a String result for ans
+  -> i pointer care about first string  , So keep checking if i is less than length becauase it is still within the index , then only append to Result STRING letter of string1
+  -> j pointer care about second string  , So keep checking if j is less than length becauase it is still within the index , then only append to Result STRING letter of string2
+  -> This works has eg-> s1="ab" , s2="abc" (vice-versa) so  i moves in front and simiulatoy j move but i stop it's append when it becomes==s1.Length but j contiues to append to result
+      if s1="abc" , s2="pqr"  , so both are same they will keep append to result string has both are within bounds
+
+
+   Things I Learned
+  ---------------------------------------
+  1768. Merge Strings Alternately ⭐ 
+    -> How to merge Alternately
+    -> how break them one string end first
+    -> Same direction
+  
