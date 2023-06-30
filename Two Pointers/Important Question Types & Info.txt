@@ -6,10 +6,17 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 ---------------------------------------
 
 557. Reverse Words in a String III ⭐ [ Swapping trick ]
-  -> 
-  -> 
-  -> 
+  -> Loop over the given String till that length(included) why because we also wnat last word , as if we didn't do it we won't get the last word to get processed in same loop 
+      has we are getting word after ' ' empty char but in last word there is no empty char so, we do have the word/string but can't do in same loop in not to equal , a new loop must be created
+  -> When we comes across ' ' we got the word reverse it and make word string again empty to get the new word move i++ to ignore ' ' move to next letter 
+  -> When i==word we have the last word reverse it and return from there / or break and return 
+  -> Keeping the letter adding to word expect ' 'empty
+  -> To reverse a String just take first and last values and swap them
 
    Things I Learned
   ---------------------------------------
-  How to 
+  How to also get last word in the same loop
+
+  -> 557. Reverse Words in a String III ⭐
+    -> Getting last word using till end of the string (<=) not only <
+    -> How to a reversal of a String
