@@ -1,5 +1,12 @@
 
 -> Palindrome
-  -> i=0 and j=end
+ -> i=0 and j=end
+
+
 -> Reverse / Reversal
   -> Swapping Trick 
+
+
+-> Alternately
+  -> i=0
+  -> j=0
