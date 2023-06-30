@@ -1,3 +1,18 @@
+
+
+/* 
+
+  Brute Force & Optimized -> Time - O(N+M) Space - O(1) 
+  
+   TAG -> [Two pointer(Same Direction) , String ]
+
+   Trick -> 
+  
+*/ 
+
+
+// Bigger Version
+
 class Solution {
     public String mergeAlternately(String word1, String word2) {
 
@@ -44,3 +59,13 @@ class Solution {
         
     }
 }
+
+
+
+
+
+
+// Shorter version
+
+
+
