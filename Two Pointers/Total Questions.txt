@@ -1,10 +1,10 @@
 2697. Lexicographically Smallest Palindrome [https://leetcode.com/problems/lexicographically-smallest-palindrome/] [ Two Pointer , String ]
 
-557. Reverse Words in a String III [https://leetcode.com/problems/reverse-words-in-a-string-iii/] [ Two Pointer , String , Reversal(Swapping) ] ⭐
+557. Reverse Words in a String III [https://leetcode.com/problems/reverse-words-in-a-string-iii/] [ Two Pointer (Opposite Direction) , String , Reversal(Swapping) ] ⭐
 
-1768. Merge Strings Alternately [https://leetcode.com/problems/merge-strings-alternately/] [ Two Pointer , String + Alternative Move ] ⭐
+1768. Merge Strings Alternately [https://leetcode.com/problems/merge-strings-alternately/] [ Two Pointer (Same Direction) , String + Alternative Move ] ⭐
 
-2000. Reverse Prefix of Word [https://leetcode.com/problems/reverse-prefix-of-word/] [ Two Pointer , String + Reversal(Swapping) ] 
+2000. Reverse Prefix of Word [https://leetcode.com/problems/reverse-prefix-of-word/] [ Two Pointer (Opposite Direction)  , String + Reversal(Swapping) ] 
 
 
 
