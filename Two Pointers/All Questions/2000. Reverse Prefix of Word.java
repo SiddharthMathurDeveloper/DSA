@@ -1,10 +1,10 @@
 /* 
 
-   Brute Force & Optimized -> Time - O(N) Space - O(1) 
+   Brute Force & Optimized -> Time - O(N^2) Space - O(1) 
   
    TAG -> [Two pointer , String ]
 
-   Trick -> Get Min char and overwrite the greater value that index eg . [e,g,c,f,e] -> [e,f,c,f,e] for f,g replace f->g or g<-f any value it will be one step toward being palidrome but question   also asked us to make lexiograhy which can be done using can get min char of the two */
+   Trick -> 
   
 */ 
 
