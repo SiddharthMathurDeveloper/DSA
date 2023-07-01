@@ -1,3 +1,15 @@
+
+/* 
+
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
+  
+   TAG -> [Two pointer , String ]
+
+   Trick ->
+  
+*/ 
+
+
 class Solution {
     public String firstPalindrome(String[] words) {
         
