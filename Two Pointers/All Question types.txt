@@ -1,6 +1,7 @@
 [ Two Pointer (Opposite Direction) + String ]
 --------------------------------------------------
 2697. Lexicographically Smallest Palindrome
+2108. Find First Palindromic String in the Array
 
 
 
