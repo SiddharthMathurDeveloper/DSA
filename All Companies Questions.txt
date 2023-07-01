@@ -28,6 +28,7 @@
 
 1768. Merge Strings Alternately [ Uber(3) ] (Two Pointer)
 
+2000. Reverse Prefix of Word [ Optum(1) ] (Two Pointer)
 
 
 
