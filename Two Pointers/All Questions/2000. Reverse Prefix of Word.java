@@ -4,7 +4,7 @@
   
    TAG -> [Two pointer(Opposite Direction) , String ]
 
-   Trick -> 
+   Trick -> find the char inde to stop and that becomes the range to reversal from that swap values from there and start and leave extra values swap in that range
   
 */ 
 
