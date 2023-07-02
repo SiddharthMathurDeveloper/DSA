@@ -1,4 +1,13 @@
 
+/* 
+
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
+  
+   TAG -> [ Two pointer(Same Direction) , String , Swapping ]
+
+   Trick ->
+  
+*/ 
 
 class Solution {
     public void reverseString(char[] s) {
