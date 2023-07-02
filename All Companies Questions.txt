@@ -34,6 +34,7 @@
 
 344. Reverse String [ Amazon(6) , Microsoft(5) , Adobe(5) , Facebook(3) , tcs(3) , Apple(2) , Intel(2) ]
 
+1332. Remove Palindromic Subsequences [ Bloomberg(2) ]
 
 
 
