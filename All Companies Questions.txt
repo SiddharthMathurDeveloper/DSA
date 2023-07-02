@@ -30,7 +30,7 @@
 
 2000. Reverse Prefix of Word [ Optum(1) ] (Two Pointer)
 
-
+942. DI String Match [ Microsoft(2) ]
 
 
 
