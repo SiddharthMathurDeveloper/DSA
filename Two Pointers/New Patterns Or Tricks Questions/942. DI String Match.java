@@ -1,7 +1,7 @@
 
 /*  
 
-   Brute Force & Optimized -> Time - O(N) Space - O(1) 
+   Brute Force & Optimized -> Time - O(N) Space - O(N) 
   
    TAG -> [Two pointer(Opposite Direction) , String , Maths(Index) ]
 
