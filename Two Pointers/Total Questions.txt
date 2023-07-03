@@ -8,7 +8,7 @@
 
 2108. Find First Palindromic String in the Array [2108. Find First Palindromic String in the Array] [Two Pointer(Opposite Direction) , String]
 
-905. Sort Array By Parity [https://leetcode.com/problems/sort-array-by-parity/description/] [] ⭐
+905. Sort Array By Parity [https://leetcode.com/problems/sort-array-by-parity/description/] [Two Pointer (Same Direction) + String + Swapping + Maths] ⭐
  
 
 
