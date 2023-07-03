@@ -73,6 +73,7 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 [ Two Pointer (Opposite Direction) + String + Maths(Index) ]
 ---------------------------------------------------------------
 942. DI String Match ⭐ 
+  -> Loop over the int array , start i pointer from start i=0 , and j with end j = Slength  
   -> 
 
 
