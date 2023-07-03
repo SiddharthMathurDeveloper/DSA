@@ -3,7 +3,7 @@
 
   Brute Force & Optimized -> Time - O(N) Space - O(1) 
   
-   TAG -> [ Two pointer(Same Direction) , String , Swapping ]
+   TAG -> [ Two pointer(Opposite Direction) , String , Swapping ]
 
    Trick ->
   
