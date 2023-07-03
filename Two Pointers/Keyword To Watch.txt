@@ -7,7 +7,7 @@
   -> Swapping Trick 
 
 
--> Alternately of array
+->Two arrays Alternately of array
   -> i=0
   -> j=0
 
