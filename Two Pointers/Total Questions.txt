@@ -6,7 +6,7 @@
 
 2000. Reverse Prefix of Word [https://leetcode.com/problems/reverse-prefix-of-word/] [ Two Pointer (Opposite Direction)  , String + Reversal(Swapping) ] 
 
-2108. Find First Palindromic String in the Array [2108. Find First Palindromic String in the Array] [Two Pointer(Opposite Direction) , String]
+2108. Find First Palindromic String in the Array [https://leetcode.com/problems/find-first-palindromic-string-in-the-array/] [Two Pointer(Opposite Direction) , String]
 
 905. Sort Array By Parity [https://leetcode.com/problems/sort-array-by-parity/description/] [Two Pointer (Same Direction) + String + Swapping + Maths] ⭐
  
