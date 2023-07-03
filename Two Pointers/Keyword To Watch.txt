@@ -10,3 +10,7 @@
 -> Alternately
   -> i=0
   -> j=0
+
+
+Extra types 
+-> Given Integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
