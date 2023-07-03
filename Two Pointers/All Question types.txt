@@ -26,3 +26,6 @@
 905. Sort Array By Parity ⭐ 
 
 
+[ Two Pointer (Opposite Direction) + String + Maths(Index) ]
+---------------------------------------------------------------------
+942. DI String Match ⭐
