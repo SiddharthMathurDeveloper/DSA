@@ -5,16 +5,11 @@
 
 
 
+
 [ Two Pointer (Opposite Direction) + String + Swapping ]
 ---------------------------------------------------------
 557. Reverse Words in a String III ⭐ 
 2000. Reverse Prefix of Word
-
-
-[ Two Pointer (Opposite Direction) + String + Swapping + Maths ]
----------------------------------------------------------------------
-905. Sort Array By Parity ⭐ 
-
 
 
 
@@ -22,5 +17,12 @@
 [ Two Pointer (Same Direction) + String + Alternately move ]
 --------------------------------------------------------------
 1768. Merge Strings Alternately ⭐
+
+
+
+
+[ Two Pointer (Same Direction) + String + Swapping + Maths ]
+---------------------------------------------------------------------
+905. Sort Array By Parity ⭐ 
 
 
