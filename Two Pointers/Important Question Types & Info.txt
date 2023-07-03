@@ -70,7 +70,11 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 
 
 
-  
+[ Two Pointer (Opposite Direction) + String + Maths(Index) ]
+---------------------------------------------------------------
+942. DI String Match ⭐ 
+  -> 
+
 
 
 
