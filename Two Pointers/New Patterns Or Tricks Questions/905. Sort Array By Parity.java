@@ -1,4 +1,13 @@
 
+/* 
+
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
+  
+   TAG -> [ Two pointer(Same Direction) , String , Swapping , Maths ]
+
+   Trick -> Move i foward in search of even and use j to be on odd when odd even match is found swap it then move j foward , j points on odd and i on even always
+  
+*/ 
 
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
