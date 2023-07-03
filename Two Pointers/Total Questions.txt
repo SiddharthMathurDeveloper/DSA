@@ -10,10 +10,7 @@
 
 905. Sort Array By Parity [https://leetcode.com/problems/sort-array-by-parity/description/] [Two Pointer (Same Direction) + String + Swapping + Maths] ⭐
  
-
-
-
-
+942. DI String Match [https://leetcode.com/problems/di-string-match/] [ Two pointer(Opposite Direction) , String , Maths(Index) ] ⭐
 
 
 
