@@ -44,4 +44,40 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
     -> How to merge Alternately
     -> how break them one string end first
     -> Same direction
+
+
+
+
+[ Two Pointer (Same Direction) + String + Swapping + Maths ]
+------------------------------------------------------------
+
+905. Sort Array By Parity ⭐ [Swapping but with maths condition]
+  -> Loop over the int array , start both pointer at the start i=0,j=0;
+  -> Move right to find a even using the ith pointer and j point on the start index jth pointer towards odd number , So when we find number swap and do j++ else always i++
+  -> So , if we put even in it's place odd will be automatically get in there place
+  -> working like this eg -> [3,1,2,4] i=0 [3]  j=0 [j] , it 
+      -> move foward 3 ignore for i 
+      -> move foward 1 ignore for i 
+      -> 2 comes now swap 2 with j which is at 0 j=0 [3] -> [2,1,3,4] and move j++ and j again points to odd  this works because odd is ignore by 2 so it passes over them so [3,2] after this [2,3] j now           points to 3 not 2 seet that
+      -> so on ....
+
+
+  Things I Learned
+  ---------------------------------------
+  905. Sort Array By Parity ⭐ 
+    -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
+    -> for Loop instead of while
+
+
+
   
+
+
+
+
+
+
+
+
+
+
