@@ -1,6 +1,6 @@
 /* 
 
-  Brute Force & Optimized -> Time - O(N^2) Space - O(1) 
+  Brute Force & Optimized -> Time - O(N) Space - O(1) 
   
    TAG -> [Two pointer , String ]
 
