@@ -35,13 +35,13 @@
 
 [ Two Pointer (Opposite Direction) ]
 --------------------------------------------------
-125. Valid Palindrome ⭐
-680. Valid Palindrome II ⭐
+125. Valid Palindrome ⭐ -> How check Palindrome
+680. Valid Palindrome II ⭐ -> The Approach
 
-344. Reverse String ⭐
+344. Reverse String ⭐ -> Swapping Trick
 
 
 
 [ Two Pointer (Same Direction) ]
 --------------------------------------------------
-1768. Merge Strings Alternately ⭐
+1768. Merge Strings Alternately ⭐ -> How to move Alternately
