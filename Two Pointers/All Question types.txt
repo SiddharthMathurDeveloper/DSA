@@ -14,10 +14,6 @@
 
 
 
-[ Two Pointer (Same Direction) + String + Alternately move ]
---------------------------------------------------------------
-
-
 
 
 
