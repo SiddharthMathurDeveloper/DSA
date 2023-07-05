@@ -33,10 +33,10 @@
 --------------------------------------------------
 125. Valid Palindrome ⭐ -> How check Palindrome
 680. Valid Palindrome II ⭐ -> The Approach
+2697. Lexicographically Smallest Palindrome -> How to create a Lexicographically Smallest Palindrome
 
 344. Reverse String ⭐ -> Swapping Trick
 557. Reverse Words in a String III ⭐ -> How to also get last word in the same loop
-
 
 
 [ Two Pointer (Same Direction) ]
