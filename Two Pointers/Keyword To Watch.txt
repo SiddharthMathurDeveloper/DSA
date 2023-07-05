@@ -11,6 +11,7 @@
   -> i=0
   -> j=0
 
+-> Some hint will be given non-dec , only 01 , substring with hints
 
 Extra types 
 -> Given Integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.[Sort Array By Parity]
