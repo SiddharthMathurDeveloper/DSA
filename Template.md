@@ -1,5 +1,4 @@
-<h1 align="center"><a href="https://leetcode.com/problems/valid-palindrome/description/">Question</a></h1>
-
+<h1 align="center"><a href="" target="_blank">Question/a></h1>
 
 ## Problem statement:
 
