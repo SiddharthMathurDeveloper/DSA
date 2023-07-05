@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://leetcode.com/problems/valid-palindrome/description/">Question</a></h1>
+<h1 align="center"><a href="https://leetcode.com/problems/merge-strings-alternately/" target="_blank">1768. Merge Strings Alternately</a></h1>
 
 
 ## Problem statement:
