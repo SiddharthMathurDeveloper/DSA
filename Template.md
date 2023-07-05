@@ -1,4 +1,4 @@
-<h1 align="center"><a href="" target="_blank">Question/a></h1>
+<h1 align="center"><a href="" target="_blank">Question</a></h1>
 
 ## Problem statement:
 
