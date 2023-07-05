@@ -16,7 +16,7 @@
 
 [ Two Pointer (Same Direction) + String + Alternately move ]
 --------------------------------------------------------------
-1768. Merge Strings Alternately ⭐
+
 
 
 
@@ -38,3 +38,8 @@
 125. Valid Palindrome ⭐
 680. Valid Palindrome II ⭐
 
+
+
+[ Two Pointer (Same Direction) ]
+--------------------------------------------------
+1768. Merge Strings Alternately ⭐
