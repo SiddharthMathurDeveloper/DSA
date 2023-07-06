@@ -6,7 +6,7 @@
 
 [ Two Pointer (Same Direction) + String + Swapping + Maths ]
 ---------------------------------------------------------------------
-905. Sort Array By Parity ⭐ 
+
 
 
 [ Two Pointer (Opposite Direction) + String + Maths(Index) ]
@@ -29,8 +29,13 @@
 345. Reverse Vowels of a String -> How to store a set of words in this case vowels using hashmap
 
 
+905. Sort Array By Parity ⭐ -> How to construct a num array from Two character
+
+
 
 
 [ Two Pointer (Same Direction) ]
 --------------------------------------------------
 1768. Merge Strings Alternately ⭐ -> How to move Alternately
+
+
