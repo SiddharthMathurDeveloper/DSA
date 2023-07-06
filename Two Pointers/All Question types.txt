@@ -35,7 +35,7 @@
 344. Reverse String ⭐ -> Swapping Trick
 557. Reverse Words in a String III ⭐ -> How to also get last word in the same loop
 2000. Reverse Prefix of Word  -> Break in middle and do a reversal
-
+345. Reverse Vowels of a String -> How to store a set of words in this case vowels using hashmap
 
 
 [ Two Pointer (Same Direction) ]
