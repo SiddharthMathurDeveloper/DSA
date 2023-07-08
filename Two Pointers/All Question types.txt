@@ -20,7 +20,7 @@
 345. Reverse Vowels of a String -> How to store a set of words in this case vowels using hashmap
 
 
-942. DI String Match ⭐ ⭐ -> How to construct a num array from Two character
+942. DI String Match ⭐ -> How to construct a num array from Two character
 
 
 
