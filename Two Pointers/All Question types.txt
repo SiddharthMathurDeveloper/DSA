@@ -29,5 +29,5 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 [ Two Pointer (Same Direction) ]
 --------------------------------------------------
 1768. Merge Strings Alternately ⭐ -> How to move Alternately
-905. Sort Array By Parity ⭐ -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
+905. Sort Array By Parity ⭐ [Maths] -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
 
