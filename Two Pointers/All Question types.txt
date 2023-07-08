@@ -11,6 +11,8 @@
 680. Valid Palindrome II ⭐ -> The Approach
 2697. Lexicographically Smallest Palindrome -> How to create a Lexicographically Smallest Palindrome
 2108. Find First Palindromic String in the Array -> How to find first Palindromic in array
+1332. Remove Palindromic Subsequences ⭐ -> If two letter are given how we can in min moves we can make it palindromic
+
 
 344. Reverse String ⭐ -> Swapping Trick
 557. Reverse Words in a String III ⭐ -> How to also get last word in the same loop
