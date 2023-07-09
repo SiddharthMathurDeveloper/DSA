@@ -22,7 +22,7 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 
 
 942. DI String Match ⭐ -> How to construct a num array from Two character
-977. Squares of a Sorted Array ⭐ -> 
+977. Squares of a Sorted Array ⭐ -> Something a extra space won't hurt , don't always do inplace 
 
 
 
