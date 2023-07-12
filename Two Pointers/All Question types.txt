@@ -33,3 +33,4 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 905. Sort Array By Parity ⭐ [Maths] -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
 
 2149. Rearrange Array Elements by Sign ⭐ -> Jumping Trick (odd/even) index
+763. Partition Labels ⭐ -> How partition the string so that each letter appears in at most one part
