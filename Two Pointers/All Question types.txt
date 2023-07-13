@@ -34,3 +34,8 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 
 2149. Rearrange Array Elements by Sign ⭐ -> Jumping Trick (odd/even) index
 763. Partition Labels ⭐ -> How partition the string so that each letter appears in at most one part
+
+
+[ Three Pointer ]
+--------------------------------------------------
+
