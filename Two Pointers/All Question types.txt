@@ -38,7 +38,7 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 2149. Rearrange Array Elements by Sign ⭐ -> Jumping Trick (odd/even) index
 763. Partition Labels ⭐ -> How partition the string so that each letter appears in at most one part
 2486. Append Characters to String to Make Subsequence ⭐ -> How to check if one element is there and then move pointer foward in search of next character only and only then maitaining the order
-2410. Maximum Matching of Players With Trainers ⭐ ->
+2410. Maximum Matching of Players With Trainers ⭐ -> a ability is less than or equal to the b capacity and we have to maxiumn it and keep pair of these two , and Sorting is the most Optimization Apporach
                                                            
 
 
