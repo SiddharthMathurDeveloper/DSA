@@ -24,7 +24,8 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 942. DI String Match ⭐ -> How to construct a num array from Two character
 977. Squares of a Sorted Array ⭐ -> Something a extra space won't hurt , don't always do inplace 
 
-
+[Medium]
+1877. Minimize Maximum Pair Sum in Array -> How to minimized maximum pair sum after optimally pairing up the elements
 
 
 [ Two Pointer (Same Direction) ]
@@ -32,11 +33,14 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 1768. Merge Strings Alternately ⭐ -> How to move Alternately
 905. Sort Array By Parity ⭐ [Maths] -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
 
+[Medium]
 2149. Rearrange Array Elements by Sign ⭐ -> Jumping Trick (odd/even) index
 763. Partition Labels ⭐ -> How partition the string so that each letter appears in at most one part
 
 
 [ Three Pointer ]
 --------------------------------------------------
+
+[Medium]
 75. Sort Colors ⭐⭐ -> Dutch National Flag Algorithm
 
