@@ -24,8 +24,10 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 942. DI String Match ⭐ -> How to construct a num array from Two character
 977. Squares of a Sorted Array ⭐ -> Something a extra space won't hurt , don't always do inplace 
 
-[Medium]
+
+[Medium] --------------------------------------------------
 1877. Minimize Maximum Pair Sum in Array -> How to minimized maximum pair sum after optimally pairing up the elements
+167. Two Sum II - Input Array Is Sorted ⭐ -> Finding two numbers such that they add up to a specific target number , provided they are sorted
 
 
 [ Two Pointer (Same Direction) ]
@@ -34,11 +36,12 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 905. Sort Array By Parity ⭐ [Maths] -> How to in optimize way swap elements and put in one side here(all even on left and odd right)
 
 
-[Medium]
+[Medium]--------------------------------------------------
 2149. Rearrange Array Elements by Sign ⭐ -> Jumping Trick (odd/even) index
 763. Partition Labels ⭐ -> How partition the string so that each letter appears in at most one part
 2486. Append Characters to String to Make Subsequence ⭐ -> How to check if one element is there and then move pointer foward in search of next character only and only then maitaining the order
 2410. Maximum Matching of Players With Trainers ⭐ -> a ability is less than or equal to the b capacity and we have to maxiumn it and keep pair of these two , and Sorting is the most Optimization Apporach
+
                                                            
 
 
@@ -46,6 +49,6 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 [ Three Pointer ]
 --------------------------------------------------
 
-[Medium]
+[Medium] --------------------------------------------------
 75. Sort Colors ⭐⭐ -> Dutch National Flag Algorithm
 
