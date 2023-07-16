@@ -45,7 +45,6 @@
 
 ## Floyd’s slow and fast pointers
 ```
-
   -> 287. Find the Duplicate Number ⭐⭐ [Floyd’s Cycle detection algorithm]
 ```
 
