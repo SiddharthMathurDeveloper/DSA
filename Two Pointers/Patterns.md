@@ -28,9 +28,13 @@ Sort
   -> 2410. Maximum Matching of Players With Trainers ⭐
 
 Three Pointers
+
   -> 75. Sort Colors ⭐⭐ [DNF]
 
 
+Floyd’s slow and fast pointers
+
+  -> 287. Find the Duplicate Number ⭐⭐ [Floyd’s Cycle detection algorithm]
 
 
 
