@@ -20,7 +20,7 @@
 
 
 
-## Maths (Max, Min)
+## Maths (Max, Min) / Pure
 ```
 
   -> 2697. Lexicographically Smallest Palindrome [in-place]
@@ -53,7 +53,11 @@
 
 ## [other]
 ---------------
-Sort+ Maths (Max, Min)
+
+
+## Sort + Maths (Max, Min)
+```
+```
 
 
 
