@@ -50,7 +50,7 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 [ Three Pointer ]
 --------------------------------------------------
 
-[Medium] --------------------------------------------------
+[Medium]
 75. Sort Colors ⭐⭐ -> Dutch National Flag Algorithm
-15. 3Sum ⭐⭐ ->
+15. 3Sum ⭐⭐ -> Point on move index and get element/required number using Two sum in Sorted array / Two sum is important question
 
