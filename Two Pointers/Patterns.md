@@ -42,7 +42,6 @@
 ```
   -> 75. Sort Colors ⭐⭐ [DNF]
   -> 15. 3Sum ⭐⭐ [Two Sum variant]
-
 ```
 
 ## Floyd’s slow and fast pointers
