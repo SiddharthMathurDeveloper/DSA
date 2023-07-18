@@ -44,6 +44,11 @@
   -> 15. 3Sum ⭐⭐ [Two Sum variant]
 ```
 
+## Four Pointers
+```
+-> 18. 4Sum ⭐⭐ [Two Sum variant]
+```
+
 ## Floyd’s slow and fast pointers
 ```
   -> 287. Find the Duplicate Number ⭐⭐ [Floyd’s Cycle detection algorithm]
