@@ -9,7 +9,7 @@ IMPORTANT LINKS :- https://leetcode.com/tag/two-pointers/discuss/1122776/Summary
 [ Two Pointer (Opposite Direction) ]
 --------------------------------------------------
 125. Valid Palindrome ⭐ -> How check Palindrome
-680. Valid Palindrome II ⭐ -> The Approach
+680. Valid Palindrome II ⭐ -> The Approach / The trick that using Valid Palidrome but dividing two subparts then checking
 2697. Lexicographically Smallest Palindrome -> How to create a Lexicographically Smallest Palindrome
 2108. Find First Palindromic String in the Array -> How to find first Palindromic in array
 1332. Remove Palindromic Subsequences ⭐ -> If two letter are given how we can in min moves we can make it palindromic
