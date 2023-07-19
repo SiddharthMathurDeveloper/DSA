@@ -43,11 +43,12 @@
 ```
   -> 75. Sort Colors ⭐⭐ [DNF]
   -> 15. 3Sum ⭐⭐ [Two Sum variant]
+  -> 16. 3Sum Closest ⭐⭐ [Two Sum variant / Three Sum variant ]
 ```
 
 ## Four Pointers
 ```
--> 18. 4Sum ⭐⭐ [Two Sum variant]
+-> 18. 4Sum ⭐⭐ [Two Sum variant / Three Sum variant ]
 ```
 
 ## Floyd’s slow and fast pointers
