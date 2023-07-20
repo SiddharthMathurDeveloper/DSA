@@ -58,10 +58,6 @@
 
 ## Other [These are combination of above types nothing more ]
 
-## Sort + Maths (Max, Min)
-```
-```
-
 
 
 ```
