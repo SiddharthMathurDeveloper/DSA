@@ -8,7 +8,7 @@
 ```
 
 
-## Swapping Trick / Start - end 
+## Reversal / Swapping Trick / Start - end 
 ```
   -> 680. Valid Palindrome II ⭐
 ```
