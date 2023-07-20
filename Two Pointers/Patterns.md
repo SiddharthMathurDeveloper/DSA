@@ -23,13 +23,11 @@
 
 ## Maths (Max, Min) / Pure
 ```
-
   -> 2697. Lexicographically Smallest Palindrome [in-place]
 
   -> 763. Partition Labels ⭐
   -> 1877. Minimize Maximum Pair Sum in Array
   -> 167. Two Sum II - Input Array Is Sorted ⭐
-
 ```
   
 
