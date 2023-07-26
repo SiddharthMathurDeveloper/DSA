@@ -5,6 +5,14 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 
 
 
-#Without Hashing / Data Structure
+`Total Question : 1`
 
-1876. Substrings of Size Three with Distinct Characters ⭐
+
+## Without Hashing / Data Structure
+
+```
+  -> 1876. Substrings of Size Three with Distinct Characters ⭐
+```
+
+
+
