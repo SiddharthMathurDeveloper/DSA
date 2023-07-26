@@ -1,6 +1,5 @@
 
 
-(Fixed)
-----------------------------------
-
-1876. Substrings of Size Three with Distinct Characters 
+Sliding Window (Fixed)
+-----------------------------------------------------------
+1876. Substrings of Size Three with Distinct Characters ⭐ -> How to use Sliding window and in second approach how to avoid using hashmap [but here k is 3 (fixed)]
