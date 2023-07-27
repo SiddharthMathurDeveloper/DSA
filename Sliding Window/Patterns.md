@@ -13,6 +13,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 ```
   -> 1876. Substrings of Size Three with Distinct Characters ⭐
   -> 2269. Find the K-Beauty of a Number ⭐ [Maths]
+  -> 643. Maximum Average Subarray I ⭐ 
 ```
 
 
