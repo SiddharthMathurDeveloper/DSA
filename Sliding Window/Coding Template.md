@@ -19,3 +19,30 @@ public int countGoodSubstrings(String s) {
     }
 };
 ```
+
+
+
+
+
+## Using while loop (Maths)  [https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/]
+
+```java
+ public int divisorSubstrings(int num, int k) {
+        int n = num;
+        long mod = (long) Math.pow(10L, k);
+
+        int countResult=0;
+
+        while(n>=mod/10){
+           long divisor = n%mod;
+
+            if(divisor!=0 && num%divisor==0 ){
+                countResult++;
+            }
+
+            n/=10;
+        }
+
+        return countResult;
+    }
+```
