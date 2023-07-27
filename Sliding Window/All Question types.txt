@@ -5,3 +5,5 @@ IMPORTANT LINKS :- https://leetcode.com/tag/sliding-window/discuss/490184/Slidin
 Sliding Window (Fixed)
 -----------------------------------------------------------
 1876. Substrings of Size Three with Distinct Characters ⭐ -> How to use Sliding window and in second approach how to avoid using hashmap [but here k is 3 (fixed)]
+2269. Find the K-Beauty of a Number ⭐ -> How use Maths to group value together (using mod) / Numeric Sliding Window
+
