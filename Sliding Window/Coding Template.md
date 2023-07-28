@@ -46,3 +46,61 @@ public int countGoodSubstrings(String s) {
         return countResult;
     }
 ```
+
+
+
+
+
+
+
+
+
+## Using while loop (general format ) Fixed  [https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/]
+``` java
+public int minimumRecolors(String blocks, int k) {
+        int i=0;
+        int j=0;
+
+        int mincount=Integer.MAX_VALUE;
+
+        int totalCountOfWhite=0;
+
+        int blocksLength = blocks.length();
+
+        while(j<blocksLength ){
+                // do calculations
+            if(blocks.charAt(j)=='W'){
+                totalCountOfWhite++;
+            }
+
+
+                // when window size is reached
+            if(j-i+1==k){
+                mincount = Math.min(totalCountOfWhite, mincount);
+
+                if(blocks.charAt(i)=='W'){
+                    totalCountOfWhite--;
+                }
+
+                i++;
+            }
+
+        // always move j foward
+            j++;
+        }
+
+
+// return your ans
+        return mincount;
+    }
+```
+
+
+
+
+
+
+
+
+
+
