@@ -5,7 +5,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 
 
 
-`Total Question : 1`
+`Total Question : 5`
 
 
 ## Without Hashing / Data Structure
@@ -15,6 +15,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
   -> 2269. Find the K-Beauty of a Number ⭐ [ Maths ]
   -> 643. Maximum Average Subarray I ⭐
   -> 2379. Minimum Recolors to Get K Consecutive Black Blocks [ Maths(Min) ]
+  -> 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  [Maths(Avg) ]
 ```
 
 
