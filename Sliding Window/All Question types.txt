@@ -9,4 +9,6 @@ Sliding Window (Fixed)
 643. Maximum Average Subarray I ⭐ -> Using max in double data type, how to round off , paying with double / rather than int
 2379. Minimum Recolors to Get K Consecutive Black Blocks ⭐ -> minimum number of operations needed to least one occurrence of k consecutive elements / Algorithm to Find Minimum Count of element in Subarrays
 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold -> Averages
+438. Find All Anagrams in a String ⭐ -> Avoiding travsel of hashMap instead using countSize to do the same to check every element in done
+
 
