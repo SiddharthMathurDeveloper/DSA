@@ -5,10 +5,10 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 
 
 
-`Total Question : 5`
+`Total Question : 6`
 
 
-## Without Hashing / Data Structure
+## Without Hashing / Data Structure [Fixed]
 
 ```
   -> 1876. Substrings of Size Three with Distinct Characters ⭐
@@ -17,6 +17,17 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
   -> 2379. Minimum Recolors to Get K Consecutive Black Blocks [ Maths(Min) ] ⭐
   -> 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  [Maths(Avg) ]
 ```
+
+
+
+##  Data Structure [Fixed]
+
+```
+ -> 438. Find All Anagrams in a String ⭐
+```
+
+
+
 
 
 
