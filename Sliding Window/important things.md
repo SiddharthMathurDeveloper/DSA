@@ -2,7 +2,7 @@
 
 
 ```
-Subarray , Arr/String , K = elements
+Subarray , Arr/String , K = elements in the Subrray , Max/Min a Subarray 
 ```
 
 ## Maths things
