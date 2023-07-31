@@ -23,7 +23,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 ##  Data Structure [Fixed]
 
 ```
- -> 438. Find All Anagrams in a String ⭐
+ -> 438. Find All Anagrams in a String ⭐ [Hashing]
  -> 2461. Maximum Sum of Distinct Subarrays With Length K ⭐ [Hashing]
 ```
 
