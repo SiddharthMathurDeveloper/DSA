@@ -2,7 +2,7 @@
 
 
 ```
-Subarray , Arr/String , K = elements in the Subrray , Max/Min a Subarray 
+Subarray , Arr/String , K = elements in the Subrray , Max/Min a Subarray
 ```
 
 ## Maths things
@@ -23,5 +23,12 @@ How to use Deque -> https://leetcode.com/problems/sliding-window-maximum/descrip
 ```
 
 
-
+# Beware
+```
 Hashing over hashSet
+
+Beware of -ve values , sliding may not work
+```
+
+
+
