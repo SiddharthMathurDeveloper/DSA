@@ -17,4 +17,6 @@ Sliding Window (Fixed)
 
 Sliding Window (Variable)
 -----------------------------------------------------------
+2024. Maximize the Confusion of an Exam ⭐⭐-> Maximum Consecutive Answers ,Of only Two value ,that while can be used in sliding window (variable) , The Trick this question uses and how
+
 
