@@ -25,8 +25,8 @@ Hashing over hashSet
 
 Beware of -ve values , sliding window may not work
 
-Some question a keyword like subarray/substring may not be give , or max/ min but still they are sliding window
-219. Contains Duplicate II
+Some question a keyword like subarray/substring may not be give , or max/ min but still they are sliding window , [These question does not scream i am sliding window]
+-> 219. Contains Duplicate II
 
 ```
 
