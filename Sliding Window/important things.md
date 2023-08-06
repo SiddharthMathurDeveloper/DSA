@@ -1,6 +1,4 @@
 ## Look for these words
-
-
 ```
 Subarray , Arr/String , K = elements in the Subrray , Max/Min a Subarray
 ```
@@ -16,10 +14,7 @@ Subarray , Arr/String , K = elements in the Subrray , Max/Min a Subarray
 
 
 ## Data structures
-```
-
-How to use Deque -> https://leetcode.com/problems/sliding-window-maximum/description/ (Must do)
-
+```How to use Deque -> https://leetcode.com/problems/sliding-window-maximum/description/ (Must do)
 ```
 
 
@@ -27,7 +22,7 @@ How to use Deque -> https://leetcode.com/problems/sliding-window-maximum/descrip
 ```
 Hashing over hashSet
 
-Beware of -ve values , sliding may not work
+Beware of -ve values , sliding window may not work
 ```
 
 
