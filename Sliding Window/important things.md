@@ -24,6 +24,10 @@ How to use Deque -> https://leetcode.com/problems/sliding-window-maximum/descrip
 Hashing over hashSet
 
 Beware of -ve values , sliding window may not work
+
+Some question a keyword like subarray/substring may not be give , or max/ min but still they are sliding window
+219. Contains Duplicate II
+
 ```
 
 
