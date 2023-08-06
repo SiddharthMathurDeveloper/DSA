@@ -35,6 +35,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 
 ```
   -> 2024. Maximize the Confusion of an Exam ⭐⭐ [Maths(Min)]
+  -> 1493. Longest Subarray of 1's After Deleting One Element ⭐⭐ [Logic VVIP]
 ```
 
 
