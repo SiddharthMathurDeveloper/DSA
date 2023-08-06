@@ -15,3 +15,6 @@ Sliding Window (Fixed)
 219. Contains Duplicate II ⭐ -> These How is this kind of question can also be part of sliding window , Finding Duplicates Within K Distance
 
 
+Sliding Window (Variable)
+-----------------------------------------------------------
+
