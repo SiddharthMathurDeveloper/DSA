@@ -5,7 +5,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 
 
 
-`Total Question : 8`
+`Total Question : 9`
 
 
 ## Without Hashing / Data Structure [Fixed]
@@ -30,6 +30,16 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
 ```
 
 
+
+## Without Hashing / Data Structure [Variable]
+
+```
+  -> 2024. Maximize the Confusion of an Exam ⭐⭐ [Maths(Min)]
+```
+
+
+
+##  Data Structure [Variable]
 
 
 
