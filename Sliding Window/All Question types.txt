@@ -13,6 +13,7 @@ Sliding Window (Fixed)
 2461. Maximum Sum of Distinct Subarrays With Length K ⭐ -> How to only subract once on occurance if 1 element is there because that is only add not more than one because those are not added
 239. Sliding Window Maximum ⭐ -> Using Deque to store , and how to use it [3,1](->) adding this way from last and remove from last to first [3,1] (<-)
 219. Contains Duplicate II ⭐ -> These How is this kind of question can also be part of sliding window , Finding Duplicates Within K Distance
+1456. Maximum Number of Vowels in a Substring of Given Length -> Nothing ,Maximum Vowels in a Substring of Given Length
 
 
 Sliding Window (Variable)
