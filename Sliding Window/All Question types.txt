@@ -21,7 +21,7 @@ Sliding Window (Variable)
 2024. Maximize the Confusion of an Exam ⭐⭐ -> Maximum Consecutive Answers ,Of only Two value ,that while can be used in sliding window (variable) , The Trick this question uses and how
 1493. Longest Subarray of 1's After Deleting One Element ⭐⭐ -> Longest Subarray with One Element Deletion
 2260. Minimum Consecutive Cards to Pick Up ⭐ -> Calculating answer and remove element in the same loop , Minimum Consecutive Cards to Pick Up
-1839. Longest Substring Of All Vowels in Order ⭐⭐ ->
+1839. Longest Substring Of All Vowels in Order ⭐⭐ -> A sliding Character comparsion question (can also be done with two pointer) , A Different type question
 
 
 
