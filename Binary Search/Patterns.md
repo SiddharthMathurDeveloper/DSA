@@ -10,5 +10,5 @@
 
 ## Upper / Lower / Floor / Ceil
 ```
--> 35. Search Insert Position ⭐- [Lower Bound]
+-> 35. Search Insert Position ⭐ [Lower Bound]
 ```
