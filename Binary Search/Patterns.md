@@ -6,3 +6,9 @@
 ```
 -> 704. Binary Search 
 ```
+
+
+## Upper / Lower / Floor / Ceil
+```
+-> 35. Search Insert Position ⭐- [Lower Bound]
+```
