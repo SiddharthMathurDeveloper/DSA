@@ -3,3 +3,9 @@
 Binary Search
 -----------------------------------------------------------
 704. Binary Search -> How to implement Binary Search
+
+
+
+Upper / Lower / Floor / Ceil
+-----------------------------------------------------------
+35. Search Insert Position ⭐ -> That is lower bound question ,And this is Binary Search Question
