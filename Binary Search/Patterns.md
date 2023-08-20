@@ -2,7 +2,7 @@
 `Total Question : 11`
 
 
-## Binary Search
+## Binary Search (Normal)
 ```
-
+-> 704. Binary Search 
 ```
