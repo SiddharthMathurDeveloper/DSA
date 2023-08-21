@@ -1,5 +1,9 @@
 
 ## Look for these words
 ```
-Sorted , Searching, target value , inserted in order , inserted in position ,
+-> Sorted ,
+-> Searching,
+-> Target value ,
+-> Inserted in order ,
+-> Inserted in position ,
 ```
