@@ -4,7 +4,7 @@ Binary Search
 -----------------------------------------------------------
 704. Binary Search -> How to implement Binary Search
 33. Search in Rotated Sorted Array ⭐ -> The way  binary Search is  modified , the logic of that every part will sorted [Left or Right] then checking moving accordling ,and which portion to elminate from the search space
-81. Search in Rotated Sorted Array II ⭐ ->
+81. Search in Rotated Sorted Array II ⭐ -> That nums[start] <= nums[mid] works for it and its part 1 condition and skip only when nums[start]== nums[mid] ==nums[end] , dealing with duplicates
 
 
 
