@@ -3,6 +3,7 @@
 Binary Search
 -----------------------------------------------------------
 704. Binary Search -> How to implement Binary Search
+33. Search in Rotated Sorted Array ⭐ -> The way  binary Search is  modified , the logic of that every part will sorted [Left or Right] then checking moving accordling
 
 
 
