@@ -1,5 +1,5 @@
 
-`Total Question : 3`
+`Total Question : 5`
 
 
 ## Binary Search (Normal)
