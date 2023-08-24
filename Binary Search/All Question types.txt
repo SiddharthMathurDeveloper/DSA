@@ -13,3 +13,5 @@ Upper / Lower / Floor / Ceil
 -----------------------------------------------------------
 35. Search Insert Position ⭐ -> That is lower bound question ,And this is Binary Search Question
 34. Find First and Last Position of Element in Sorted Array ⭐ -> That this problem can be solved using lower & upper bound trick as well as binary search
+2089. Find Target Indices After Sorting Array -> 
+
