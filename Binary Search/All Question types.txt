@@ -15,3 +15,9 @@ Upper / Lower / Floor / Ceil
 34. Find First and Last Position of Element in Sorted Array ⭐ -> That this problem can be solved using lower & upper bound trick as well as binary search
 2089. Find Target Indices After Sorting Array -> This question optimal way is counting sort way , But using Binary Search way is upper & lower bound
 
+
+
+
+Binary Search on Answer
+-----------------------------------------------------------
+69. Sqrt(x) ⭐ ->  When a range is given and we have search apply binary search on answers concept
