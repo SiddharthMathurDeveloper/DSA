@@ -21,5 +21,7 @@ the portion to be elimanated and then you can write binary Search for anything
 
 -> In some question array may not be given but a range like [0,n] or [ 0,8]  so u have think like a array is given perform the same way.
 
--> If till a certain point answers are available , then we can use binary Search like [Sqrt(x)]
+-> If till a certain point answers are available , then we can use binary Search like [Sqrt(x)] , this is also called as Binary Search on answer
+
+-> 
 ```
