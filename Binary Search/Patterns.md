@@ -17,3 +17,11 @@
 -> 34. Find First and Last Position of Element in Sorted Array ⭐ [Lower & Upper Bound | Binary Search ]
 -> 2089. Find Target Indices After Sorting Array -> [Lower & Upper Bound | Counting Sort(optimal)]
 ```
+
+
+## Upper / Lower / Floor / Ceil
+```
+69. Sqrt(x) ⭐ -> 
+```
+
+
