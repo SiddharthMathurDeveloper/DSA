@@ -6,6 +6,7 @@
 -> Target value ,
 -> Inserted in order ,
 -> Inserted in position ,
+-> A range is given
 ```
 
 
@@ -23,5 +24,5 @@ the portion to be elimanated and then you can write binary Search for anything
 
 -> If till a certain point answers are available , then we can use binary Search like [Sqrt(x)] , this is also called as Binary Search on answer
 
--> When a range is given and we have search apply binary search on answers concept
+-> When a range is given and we have search apply binary search on answers concept then we have see we need min or max according we remove that half
 ```
