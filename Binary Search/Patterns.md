@@ -22,6 +22,7 @@
 ## Binary Search on Answer
 ```
 69. Sqrt(x) ⭐ -> [Range (0 to target)]
+278. First Bad Version ⭐ -> [Range(Api form) 1 to n]
 ```
 
 
