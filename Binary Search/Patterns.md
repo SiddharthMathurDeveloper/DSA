@@ -28,6 +28,7 @@
 ```
 69. Sqrt(x) ⭐ -> [Range (0 to target)]
 278. First Bad Version ⭐ [Range(Api form) 1 to n]
+374. Guess Number Higher or Lower [Range(Api form) 1 to n]
 ```
 
 
