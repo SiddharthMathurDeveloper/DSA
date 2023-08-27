@@ -16,6 +16,9 @@ Upper / Lower / Floor / Ceil
 2089. Find Target Indices After Sorting Array -> This question optimal way is counting sort way , But using Binary Search way is upper & lower bound
 
 
+Peak 
+-----------------------------------------------------------
+
 
 
 Binary Search on Answer
