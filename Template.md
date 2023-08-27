@@ -32,7 +32,7 @@
 
  
 
-## Space Optimization Approach:
+## Approach:
 
 - 
   
