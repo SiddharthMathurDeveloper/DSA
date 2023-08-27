@@ -21,7 +21,10 @@ Peak
 162. Find Peak Element ⭐ ->  How solved increaing decreasing type of question in binary search
 
 
+
+
 Binary Search on Answer
 -----------------------------------------------------------
 69. Sqrt(x) ⭐ ->  When a range is given and we have search apply binary search on answers concept
 278. First Bad Version ⭐ -> Optimal way to call api , That configuring out this is a binary search question
+374. Guess Number Higher or Lower -> Binary Search on answer variant question
