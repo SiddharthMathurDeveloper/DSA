@@ -19,6 +19,7 @@ Upper / Lower / Floor / Ceil
 Peak 
 -----------------------------------------------------------
 162. Find Peak Element ⭐ ->  How solved increaing decreasing type of question in binary search
+852. Peak Index in a Mountain Array ⭐ -> Array will have a peak always ,this question 1 peak question if u read it carefully
 
 
 
