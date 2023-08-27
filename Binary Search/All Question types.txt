@@ -18,7 +18,7 @@ Upper / Lower / Floor / Ceil
 
 Peak 
 -----------------------------------------------------------
-
+162. Find Peak Element ⭐ ->  How solved increaing decreasing type of question in binary search
 
 
 Binary Search on Answer
