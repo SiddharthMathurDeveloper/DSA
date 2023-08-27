@@ -1,5 +1,5 @@
 
-`Total Question : 9`
+`Total Question : 10`
 
 
 ## Binary Search (Normal)
@@ -21,14 +21,14 @@
 
 ## Peak
 ```
-278. First Bad Version ⭐ [Mutiple Peaks]
+-> 278. First Bad Version ⭐ [Mutiple Peaks]
 ```
 
 ## Binary Search on Answer
 ```
-69. Sqrt(x) ⭐ -> [Range (0 to target)]
-278. First Bad Version ⭐ [Range(Api form) 1 to n]
-374. Guess Number Higher or Lower [Range(Api form) 1 to n]
+-> 69. Sqrt(x) ⭐  [Range (0 to target)]
+-> 278. First Bad Version ⭐ [Range(Api form) 1 to n]
+-> 374. Guess Number Higher or Lower [Range(Api form) 1 to n]
 ```
 
 
