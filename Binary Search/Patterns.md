@@ -22,6 +22,7 @@
 ## Peak
 ```
 -> 278. First Bad Version ⭐ [Mutiple Peaks]
+852. Peak Index in a Mountain Array ⭐ [Single Peak]
 ```
 
 ## Binary Search on Answer
