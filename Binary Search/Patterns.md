@@ -19,6 +19,11 @@
 ```
 
 
+## Peak
+```
+278. First Bad Version
+```
+
 ## Binary Search on Answer
 ```
 69. Sqrt(x) ⭐ -> [Range (0 to target)]
