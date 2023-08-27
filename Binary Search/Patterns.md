@@ -1,5 +1,5 @@
 
-`Total Question : 10`
+`Total Question : 11`
 
 
 ## Binary Search (Normal)
@@ -22,7 +22,7 @@
 ## Peak
 ```
 -> 278. First Bad Version ⭐ [Mutiple Peaks]
-852. Peak Index in a Mountain Array ⭐ [Single Peak]
+-> 852. Peak Index in a Mountain Array ⭐ [Single Peak]
 ```
 
 ## Binary Search on Answer
