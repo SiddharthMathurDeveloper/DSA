@@ -1,5 +1,5 @@
 
-`Total Question : 12`
+`Total Question : 13`
 
 
 ## Binary Search (Normal)
@@ -30,6 +30,7 @@
 -> 69. Sqrt(x) ⭐  [Range (0 to target)]
 -> 278. First Bad Version ⭐ [Range(Api form) 1 to n]
 -> 374. Guess Number Higher or Lower [Range(Api form) 1 to n]
+-> 875. Koko Eating Bananas ⭐⭐ [Range(1 to max value in array) given indirectly / inhidden way  ]
 ```
 
 
