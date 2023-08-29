@@ -34,7 +34,10 @@ the portion to be elimanated and then you can write binary Search for anything
 - Can have duplicates values
 
 ## Binary Search on Answer
+- Find the range to solve the question this is the main thing
 
 
+```
 ***Increaing decreasing question has some properties like left side is smaller than mid and mid is samller that than right (single peak) , 
 mutiple peak we can go either left to right because if you think we are in mid that in case (creast) beause in that (torugh) can be found both sides***
+```
