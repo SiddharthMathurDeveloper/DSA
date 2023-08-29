@@ -31,7 +31,7 @@
 -> 278. First Bad Version ⭐ [Range(Api form) 1 to n]
 -> 374. Guess Number Higher or Lower [Range(Api form) 1 to n]
 -> 875. Koko Eating Bananas ⭐⭐ [Range(1 to max value in array) given indirectly / inhidden way  ]
-1482. Minimum Number of Days to Make m Bouquets ⭐⭐ [ Range(1 to max value in array)/Range(min value to max value in array) [both works]  given indirectly / inhidden way  ]
+-> 1482. Minimum Number of Days to Make m Bouquets ⭐⭐ [ Range(1 to max value in array)/Range(min value to max value in array) [both works]  given indirectly / inhidden way  ]
 ```
 
 
