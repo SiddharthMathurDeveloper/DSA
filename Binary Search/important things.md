@@ -33,7 +33,7 @@ the portion to be elimanated and then you can write binary Search for anything
 - Going left or right if u think logic will not impact the answer either way on both side there will exist the peak , when u in middle
 - Can have duplicates values
 
-## Bs on Answer
+## Binary Search on Answer
 
 
 ***Increaing decreasing question has some properties like left side is smaller than mid and mid is samller that than right (single peak) , 
