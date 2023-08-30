@@ -3,8 +3,11 @@
 Binary Search
 -----------------------------------------------------------
 704. Binary Search -> How to implement Binary Search
+
 33. Search in Rotated Sorted Array ⭐ -> The way  binary Search is  modified , the logic of that every part will sorted [Left or Right] then checking moving accordling ,and which portion to elminate from the search space
+
 81. Search in Rotated Sorted Array II ⭐ -> That nums[start] <= nums[mid] works for it and its part 1 condition and skip only when nums[start]== nums[mid] ==nums[end] , dealing with duplicates
+
 540. Single Element in a Sorted Array ⭐⭐ -> Figuraing out the elimation by the index (even odd , odd even) main thing the question , condition for rather than writing mutiple condition writing single to check
  
 
@@ -14,13 +17,16 @@ Binary Search
 Upper / Lower / Floor / Ceil
 -----------------------------------------------------------
 35. Search Insert Position ⭐ -> That is lower bound question ,And this is Binary Search Question
+
 34. Find First and Last Position of Element in Sorted Array ⭐ -> That this problem can be solved using lower & upper bound trick as well as binary search
+
 2089. Find Target Indices After Sorting Array -> This question optimal way is counting sort way , But using Binary Search way is upper & lower bound
 
 
 Peak 
 -----------------------------------------------------------
 162. Find Peak Element ⭐ ->  How solved increaing decreasing type of question in binary search
+
 852. Peak Index in a Mountain Array ⭐ -> Array will have a peak always ,this question 1 peak question if u read it carefully
 
 
@@ -29,8 +35,13 @@ Peak
 Binary Search on Answer
 -----------------------------------------------------------
 69. Sqrt(x) ⭐ ->  When a range is given and we have search apply binary search on answers concept
+
 278. First Bad Version ⭐ -> Optimal way to call api , That configuring out this is a binary search question
+
 374. Guess Number Higher or Lower -> Binary Search on answer variant question
+
 875. Koko Eating Bananas ⭐⭐ -> That this is binary search question which does not look that way , binary search can have more than logN time , Determining the range is given indirectly
+
 1482. Minimum Number of Days to Make m Bouquets ⭐⭐ ->  That this is binary search on answer question , figuring out the range which is hidden , and thinking the adjacent function code ,and knowing  adjacent function should be boolean way rather getting the total value from  it as think when all element are smaller than that midvalue and that is min value it itself what will happen it will return a integer value but than a answer , boolean way works
 
+744. Find Smallest Letter Greater Than Target ⭐⭐ -> Thinking of ASCII values in place of letters in the brain , binary saerch applied to characters 
