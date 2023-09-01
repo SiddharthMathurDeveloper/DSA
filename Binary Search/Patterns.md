@@ -31,6 +31,7 @@
 ## Binary Search on Answer
 ```
 -> 69. Sqrt(x) ⭐  [Range (0 to target)]
+-> 367. Valid Perfect Square [Range (1 to num)]
 -> 278. First Bad Version ⭐ [Range(Api form) 1 to n]
 -> 374. Guess Number Higher or Lower [Range(Api form) 1 to n]
 -> 875. Koko Eating Bananas ⭐⭐ [Range(1 to max value in array) given indirectly / inhidden way  ]
