@@ -51,6 +51,8 @@ Binary Search on Answer
 
 1539. Kth Missing Positive Number ⭐⭐⭐ -> Every thing in this question is super importany , from forming the formula to knowning and applying Binary Search
 
+1011. Capacity To Ship Packages Within D Days ⭐⭐ -> Not Using possible method can but  i am not, calucalting start being max value (better for optimzition) , not using possible method way as mine code not working on that one , knowing findDays how to code it
+
 
 
 
