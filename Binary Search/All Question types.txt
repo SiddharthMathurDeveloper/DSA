@@ -47,6 +47,8 @@ Binary Search on Answer
 
 1482. Minimum Number of Days to Make m Bouquets ⭐⭐ ->  That this is binary search on answer question , figuring out the range which is hidden , and thinking the adjacent function code ,and knowing  adjacent function should be boolean way rather getting the total value from  it as think when all element are smaller than that midvalue and that is min value it itself what will happen it will return a integer value but than a answer , boolean way works
 
+1283. Find the Smallest Divisor Given a Threshold ⭐⭐ -> isPossible code logic nad maths related to it
+
 441. Arranging Coins ⭐ -> How to use long rather in when values becomes too large (like mid*mid) when multiplying and Maths (sum of till  number nth)
 
 1539. Kth Missing Positive Number ⭐⭐⭐ -> Every thing in this question is super importany , from forming the formula to knowning and applying Binary Search
