@@ -43,3 +43,7 @@
 ```
 
 
+## Binary Search on Answer (Min or Max / Max or Min)
+```
+```
+
