@@ -58,6 +58,9 @@ Binary Search on Answer
 1011. Capacity To Ship Packages Within D Days ⭐⭐ -> Not Using possible method can but  i am not, calucalting start being max value (better for optimzition) , not using possible method way as mine code not working on that one , knowing findDays how to code it
 
 
+Binary Search on Answer (Min or Max / Max or Min)
+-----------------------------------------------------------
+
 
 
 
