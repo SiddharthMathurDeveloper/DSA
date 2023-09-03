@@ -29,6 +29,7 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
  -> 219. Contains Duplicate II ⭐ [Hashing]
  -> 1456. Maximum Number of Vowels in a Substring of Given Length [Hashing]
  -> 187. Repeated DNA Sequences [Hashing , SubString]
+ -> 187. Repeated DNA Sequences  [Hashing]
 ```
 
 
@@ -39,7 +40,6 @@ https://leetcode.com/tag/sliding-window/discuss/1854225/Full-Interview-Preparati
   -> 2024. Maximize the Confusion of an Exam ⭐⭐ [Maths(Min)]
   -> 1493. Longest Subarray of 1's After Deleting One Element ⭐⭐ [Logic VVIP]
   -> 1839. Longest Substring Of All Vowels in Order ⭐⭐ [VVIIPP LOGIC]
-
 ```
 
 
