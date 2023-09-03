@@ -45,5 +45,6 @@
 
 ## Binary Search on Answer (Min or Max / Max or Min)
 ```
+-> 1552. Magnetic Force Between Two Balls ⭐⭐ [Sorting + Helper functio ]
 ```
 
