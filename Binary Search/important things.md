@@ -37,6 +37,17 @@ the portion to be elimanated and then you can write binary Search for anything
 - Find the range to solve the question this is the main thing
 
 
+Binary Search on Answer (Min or Max / Max or Min)
+- Do min of max / max of min, something like that will be given upfront in the question
+  
+- Sorting can be Used
+  
+- First code the linear version then tranform to the binary Search way , usually a helper function will remain just the
+  how the values being passed is being change , (Linear -> Binary)
+
+- Range should be formed on linear and binary Approach
+
+
 ```
 ***Increaing decreasing question has some properties like left side is smaller than mid and mid is samller that than right (single peak) , 
 mutiple peak we can go either left to right because if you think we are in mid that in case (creast) beause in that (torugh) can be found both sides***
