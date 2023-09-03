@@ -35,9 +35,15 @@ the portion to be elimanated and then you can write binary Search for anything
 
 ## Binary Search on Answer
 - Find the range to solve the question this is the main thing
+  
+- First code the linear version then tranform to the binary Search way , usually a helper function will remain just the
+  how the values being passed is being change , (Linear -> Binary)
+  
 
 
 ## Binary Search on Answer (Min or Max / Max or Min)
+- This is just a more extend version of Binary Search on Answer
+  
 - Do min of max / max of min, something like that will be given upfront in the question
   
 - Sorting can be Used
