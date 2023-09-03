@@ -37,7 +37,7 @@ the portion to be elimanated and then you can write binary Search for anything
 - Find the range to solve the question this is the main thing
 
 
-Binary Search on Answer (Min or Max / Max or Min)
+## Binary Search on Answer (Min or Max / Max or Min)
 - Do min of max / max of min, something like that will be given upfront in the question
   
 - Sorting can be Used
