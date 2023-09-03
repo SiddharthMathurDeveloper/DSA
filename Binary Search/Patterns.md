@@ -1,5 +1,5 @@
 
-`Total Question : 21`
+`Total Question : 22`
 
 
 ## Binary Search (Normal)
@@ -45,6 +45,6 @@
 
 ## Binary Search on Answer (Min or Max / Max or Min)
 ```
--> 1552. Magnetic Force Between Two Balls ⭐⭐ [Sorting + Helper functio ]
+-> 1552. Magnetic Force Between Two Balls ⭐⭐ [Sorting + Helper function ]
 ```
 
