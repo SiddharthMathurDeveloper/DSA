@@ -60,7 +60,7 @@ Binary Search on Answer
 
 Binary Search on Answer (Min or Max / Max or Min)
 -----------------------------------------------------------
-
+1552. Magnetic Force Between Two Balls ⭐⭐ -> Sorting being Used then Binary Search ,The extra function apart from binary Search / helper function how to code
 
 
 
