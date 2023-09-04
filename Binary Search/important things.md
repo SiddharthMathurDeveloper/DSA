@@ -34,6 +34,8 @@ the portion to be elimanated and then you can write binary Search for anything
 - Can have duplicates values
 
 ## Binary Search on Answer
+- Start value can be other 0 ,1 if u observe you can trim down the range to search [Choosing wrong may lead to wrong answers]
+  
 - Find the range to solve the question this is the main thing
   
 - First code the linear version then tranform to the binary Search way , usually a helper function will remain just the
