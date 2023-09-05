@@ -74,7 +74,61 @@ which also is the largest among all possible ways.
 ## Code: 
 
 ```java
+public static int solve(int n, int k, int[] stalls) {
+    // Call the maxStallAssignToKthCows function to find the maximum distance
+    // to assign k cows to the given stalls.
+    return maxStallAssignToKthCows(stalls, n, k);
+}
 
+// This function calculates the maximum distance to assign k cows to the stalls.
+private static int maxStallAssignToKthCows(int[] stalls, int stallSize, int k) {
+    // Sort the stalls in ascending order to simplify the calculations.
+    Arrays.sort(stalls);
+
+    // Initialize the search range.
+    int start = 1;
+    int end = stalls[stallSize - 1] - stalls[0];
+
+    // Initialize the answer to store the maximum distance.
+    int ans = 0;
+
+    // Perform binary search to find the maximum distance.
+    while (start <= end) {
+        int mid = start + (end - start) / 2;
+
+        // Check if it's possible to place k cows with a minimum distance of 'mid'.
+        if (isPossibleToPlace(stalls, k, mid)) {
+            ans = mid; // Update the answer with the current 'mid'.
+            start = mid + 1; // Move the search range to the right.
+        } else {
+            end = mid - 1; // Move the search range to the left.
+        }
+    }
+
+    // Return the maximum distance that allows placing k cows in stalls.
+    return ans;
+}
+
+// This function checks if it's possible to place 'totalCows' cows in stalls
+// with a minimum distance of 'distance' between each cow.
+private static boolean isPossibleToPlace(int[] stalls, int totalCows, int distance) {
+    int placedCows = 1; // Initialize the number of cows placed.
+    int lastCowPosition = stalls[0]; // Initialize the position of the last placed cow.
+
+    // Iterate through the stalls to check placement possibilities.
+    for (int i = 1; i < stalls.length; i++) {
+        if (stalls[i] - lastCowPosition >= distance) {
+            placedCows++; // Place a cow if the distance condition is met.
+            lastCowPosition = stalls[i]; // Update the position of the last placed cow.
+        }
+
+        if (totalCows == placedCows) {
+            return true; // If all cows are placed, return true.
+        }
+    }
+
+    return false; // Return false if it's not possible to place all cows.
+}
 ```
 
 
