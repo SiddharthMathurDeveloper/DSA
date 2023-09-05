@@ -155,19 +155,22 @@ public static int findPages(int[] A, int N, int M) {
 
 // Helper function to simulate allocation and calculate the total students needed for a given range.
 private static int totalPagesToStudentAllocation(int[] pages, int range) {
-    int studentNeed = 1;
-    long pageStudent = 0;
+    int studentNeed = 1; // Initialize the number of students needed to 1.
+    long pageStudent = 0; // Initialize the current student's allocated pages to 0.
     
     for (int i = 0; i < pages.length; i++) {
         if (pages[i] + pageStudent > range) {
+            // If adding the pages of the current book exceeds the allocated range,
+            // allocate the current book to a new student, and reset the allocated pages.
             pageStudent = pages[i];
             studentNeed++;
         } else {
+            // Allocate the pages of the current book to the current student.
             pageStudent += pages[i];
         }
     }
     
-    return studentNeed;
+    return studentNeed; // Return the total number of students needed.
 }
 ```
 
