@@ -91,14 +91,14 @@ Space complexity: O(1)
 
 ## Things I Learned:
 
-- 
+- How to code the helper function , Getting optimal start and end values , not using possble methods
   
 
 
 ## Companies:
 
 ```
-
+unknown
 ```
 
 
