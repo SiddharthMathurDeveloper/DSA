@@ -47,5 +47,6 @@
 ```
 -> Aggressive Cows ⭐⭐  [Range (0 , max-min) given indirectly / inhidden way, Sorting ,Helper function  ]
 -> 1552. Magnetic Force Between Two Balls ⭐⭐ [Range (0 , max-min) given indirectly,Sorting , Helper function ]
+-> Allocate minimum number of pages ⭐⭐ [Range(max,sum of array) given indirectly , Helper function ]
 ```
 
