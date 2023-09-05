@@ -53,7 +53,7 @@ the portion to be elimanated and then you can write binary Search for anything
 - First code the linear version then tranform to the binary Search way , usually a helper function will remain just the
   how the values being passed is being change , (Linear -> Binary)
 
-- Range should be formed on linear and binary Approach
+- Range should be formed on linear and then convert to binary search Approach
 
 
 ***Increaing decreasing question has some properties like left side is smaller than mid and mid is samller that than right (single peak) , 
