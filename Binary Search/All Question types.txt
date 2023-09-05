@@ -61,7 +61,10 @@ Binary Search on Answer
 Binary Search on Answer (Min or Max / Max or Min)
 -----------------------------------------------------------
 Aggressive Cows ⭐⭐ -> How to code the helper function which seems easy than expected , Range from 1 to max-min(observation) which is important for best code
+
 1552. Magnetic Force Between Two Balls ⭐⭐ -> Sorting being Used then Binary Search ,The extra function apart from binary Search / helper function how to code
+
+Allocate minimum number of pages ⭐⭐ ->  How to code the helper function , Getting optimal start and end values , not using possble methods
 
 
 
