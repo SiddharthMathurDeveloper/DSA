@@ -52,3 +52,10 @@
 -> Allocate minimum number of pages ⭐⭐ [Range(max,sum of array) given indirectly , Helper function ]
 ```
 
+
+
+
+
+## Binary Search on Matrix
+```
+```
