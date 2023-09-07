@@ -47,9 +47,6 @@ the portion to be elimanated and then you can write binary Search for anything
 
 ## Binary Search on Answer (Min or Max / Max or Min)
 - This is just a more extend version of Binary Search on Answer
-  
-
-
 
 - Do min of max / max of min, something like that will be given upfront in the question
   
@@ -59,6 +56,18 @@ the portion to be elimanated and then you can write binary Search for anything
   how the values being passed is being change , (Linear -> Binary)
 
 - Range should be formed on linear and then convert to binary search Approach
+
+
+
+
+## Matrix :
+- 1D to 2D thinking conversion using formula 
+- 
+
+
+
+
+
 
 
 ***Increaing decreasing question has some properties like left side is smaller than mid and mid is samller that than right (single peak) , 
