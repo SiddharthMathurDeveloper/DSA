@@ -72,7 +72,7 @@ Allocate minimum number of pages ⭐⭐ ->  How to code the helper function , Ge
 
 Binary Search on Matrix
 -----------------------------------------------------------
-
+74. Search a 2D Matrix ⭐⭐ -> To solve this You Have to think this matrix in 1D form , converting 1D mid values to 2D values formula( int row = mid/numCols | int col = mid%numCols )
 
 
 
