@@ -17,9 +17,9 @@
 - Array and Hashing
 - Stack 
 - Matrix
-- Two pointer
-- Binary Search
-- Sliding window
+- Two pointer [✅]
+- Binary Search [✅]
+- Sliding window [✅]
 - linked list
 - Trees
 - Heap / priotiry Queue
@@ -35,8 +35,4 @@
 
 
 
-Patterns :-
-Array & Hashmap/Hashset
-- [ ] Freq/Count
-- [ ] Mapping
-- [ ] 
+
