@@ -38,7 +38,7 @@
 -> 1482. Minimum Number of Days to Make m Bouquets ⭐⭐ [ Range(1 to max value in array)/Range(min value to max value in array) [both works]  given indirectly / inhidden way  ]
 -> 441. Arranging Coins ⭐ [Range (0 to n)]
 -> 1283. Find the Smallest Divisor Given a Threshold ⭐⭐ [Range given indirectly / inhidden way ]
--> 1539. Kth Missing Positive Number ⭐⭐⭐ [Range as to made yourself using range / indirectly]
+-> 1539. Kth Missing Positive Number ⭐⭐⭐ [Range as to made yourself using range / indirectly + MATHS]
 -> 1011. Capacity To Ship Packages Within D Days ⭐⭐ [Range (start=max , end = sum) / indirectly]
 ```
 
