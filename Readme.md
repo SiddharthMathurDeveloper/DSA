@@ -20,7 +20,7 @@
 - Two pointer [✅]
 - Binary Search [✅]
 - Sliding window [✅]
-- linked list
+- Linked List
 - Trees
 - Heap / priotiry Queue
 - Intervals
