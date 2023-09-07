@@ -58,4 +58,6 @@
 
 ## Binary Search on Matrix
 ```
+-> 74. Search a 2D Matrix ⭐⭐ [Think of 1D but code in 2D using 1D convert to 2D formula in the question]
+
 ```
