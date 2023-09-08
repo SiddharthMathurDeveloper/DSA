@@ -2,3 +2,6 @@
 Choose any two indices / Swapping / String / Array
 -----------------------------------------------------------
 2839. Check if Strings Can be Made Equal With Operations I -> Observation , swapping that 0-2 and 1-3 can be used any of the string
+
+2840. Check if Strings Can be Made Equal With Operations II ⭐⭐ -> In this question its not swapping in real but thinking it with indexes , swapping even-even index , odd-odd indexnot careing the rest , because if u think it themselves caninterchange how they do we don't have to know just have tell true or false 
+
