@@ -5,11 +5,15 @@
 ## Binary Search (Normal)
 ```
 -> 704. Binary Search
+
 -> 34. Find First and Last Position of Element in Sorted Array ⭐ [Lower & Upper Bound | Binary Search ]
+
 -> 33. Search in Rotated Sorted Array ⭐ [Modified Binary Search]
+
 -> 744. Find Smallest Letter Greater Than Target ⭐⭐ [Characters/letter]
 
 -> 81. Search in Rotated Sorted Array II ⭐ [Modified Binary Search + special condition]
+
 -> 540. Single Element in a Sorted Array ⭐⭐ [Modified Binary Search + special condition + Maths + indexes]
 ```
 
@@ -17,7 +21,9 @@
 ## Upper / Lower / Floor / Ceil
 ```
 -> 35. Search Insert Position ⭐ [Lower Bound]
+
 -> 34. Find First and Last Position of Element in Sorted Array ⭐ [Lower & Upper Bound | Binary Search ]
+
 -> 2089. Find Target Indices After Sorting Array [Lower & Upper Bound | Counting Sort(optimal)]
 ```
 
@@ -25,20 +31,30 @@
 ## Peak
 ```
 -> 278. First Bad Version ⭐ [Mutiple Peaks]
+
 -> 852. Peak Index in a Mountain Array ⭐ [Single Peak]
 ```
 
 ## Binary Search on Answer
 ```
 -> 69. Sqrt(x) ⭐  [Range (0 to target)]
+
 -> 367. Valid Perfect Square [Range (1 to num)]
+
 -> 278. First Bad Version ⭐ [Range(Api form) 1 to n]
+
 -> 374. Guess Number Higher or Lower [Range(Api form) 1 to n]
+
 -> 875. Koko Eating Bananas ⭐⭐ [Range(1 to max value in array) given indirectly / inhidden way  ]
+
 -> 1482. Minimum Number of Days to Make m Bouquets ⭐⭐ [ Range(1 to max value in array)/Range(min value to max value in array) [both works]  given indirectly / inhidden way  ]
+
 -> 441. Arranging Coins ⭐ [Range (0 to n)]
+
 -> 1283. Find the Smallest Divisor Given a Threshold ⭐⭐ [Range given indirectly / inhidden way ]
+
 -> 1539. Kth Missing Positive Number ⭐⭐⭐ [Range as to made yourself using range / indirectly + MATHS]
+
 -> 1011. Capacity To Ship Packages Within D Days ⭐⭐ [Range (start=max , end = sum) / indirectly]
 ```
 
@@ -59,5 +75,6 @@
 ## Binary Search on Matrix
 ```
 -> 74. Search a 2D Matrix ⭐⭐ [Think of 1D but code in 2D using 1D convert to 2D formula in the question]
+
 -> 240. Search a 2D Matrix II ⭐⭐ [Not standard Binary Search , using property of martix to go left or down] 
 ```
