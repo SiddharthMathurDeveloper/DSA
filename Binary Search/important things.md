@@ -62,7 +62,7 @@ the portion to be elimanated and then you can write binary Search for anything
 
 ## Matrix :
 - 1D to 2D thinking conversion using formula 
-- 
+- Sometimes elimatation is the key , It may not be Typical Binary Search (240. Search a 2D Matrix II)
 
 
 
