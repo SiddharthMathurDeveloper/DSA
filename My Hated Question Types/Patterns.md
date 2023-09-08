@@ -1,5 +1,5 @@
 
-`Total Question : 1`
+`Total Question : 2`
 
 
 ## Choose any two indices / Swapping / String / Array
