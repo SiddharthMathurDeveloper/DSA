@@ -73,6 +73,7 @@ Allocate minimum number of pages ⭐⭐ ->  How to code the helper function , Ge
 Binary Search on Matrix
 -----------------------------------------------------------
 74. Search a 2D Matrix ⭐⭐ -> To solve this You Have to think this matrix in 1D form , converting 1D mid values to 2D values formula( int row = mid/numCols | int col = mid%numCols )
+240. Search a 2D Matrix II ⭐⭐ -> That sometime binary may not be in the form we expect it to be in Binary Search is all about elimation , Here the Binary Search is implemented in not standard we know of like using mid all not used here
 
 
 
