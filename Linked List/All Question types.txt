@@ -2,3 +2,8 @@
 [Maths]
 --------------------------------------------------------------------------------
 1290. Convert Binary Number in a Linked List to Integer ⭐ -> Proper Maths of binary to decimal conversion using trick to do that in one go.
+
+[ Remove / Merge / Add ]
+--------------------------------------------------------------------------------
+83. Remove Duplicates from Sorted List ⭐ ->  Move to next node  new node with only when before that are not same , from one node check like eg[ 1 ,1 ,1 ,2  ] -> 1 check(index 1)same,1 check(index                                                    2)same,1 check(index 1)different then move 
+
