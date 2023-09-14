@@ -1,7 +1,4 @@
 
-
-
-
 [Maths]
 --------------------------------------------------------------------------------
 1290. Convert Binary Number in a Linked List to Integer ⭐ -> Proper Maths of binary to decimal conversion using trick to do that in one go.
