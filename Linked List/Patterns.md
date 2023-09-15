@@ -1,5 +1,5 @@
 
-`Total Question:2`
+`Total Question: 3`
 
 ## Maths / Normal Transvel
 ```
@@ -10,4 +10,10 @@
 ## Remove / Merge / Add 
 ```
 -> 83. Remove Duplicates from Sorted List ⭐ [Basic Deletion Trick]
+```
+
+
+## Cycle / Fast & Slower Pointer 
+```
+-> 141. Linked List Cycle ⭐⭐ [Main Algo of Floyed (Fast & Slower Pointer )]
 ```
