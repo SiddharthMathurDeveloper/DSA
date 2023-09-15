@@ -10,6 +10,7 @@
 ## Remove / Merge / Add 
 ```
 -> 83. Remove Duplicates from Sorted List ⭐ [Basic Deletion Trick]
+-> 21. Merge Two Sorted Lists ⭐⭐ [Basic Merge Trick]
 ```
 
 
