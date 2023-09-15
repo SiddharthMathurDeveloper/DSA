@@ -7,3 +7,8 @@
 --------------------------------------------------------------------------------
 83. Remove Duplicates from Sorted List ⭐ ->  Move to next node  new node with only when before that are not same , from one node check like eg[ 1 ,1 ,1 ,2  ] -> 1 check(index 1)same,1 check(index                                                    2)same,1 check(index 1)different then move 
 
+
+[ Cycle / Fast & Slower Pointer ]
+--------------------------------------------------------------------------------
+141. Linked List Cycle ⭐⭐ -> Floyed Fast and Slow Pointer Trick , Fast && Fast.next together because it could jump 2 time makes fast Null , so if fast.next is only there will give
+  null pointer expection or before fast (fast.next && fast) [Null] , also , fast.next to check that next node not null that means lasting on last node
