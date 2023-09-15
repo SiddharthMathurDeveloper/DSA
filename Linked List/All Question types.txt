@@ -5,7 +5,10 @@
 
 [ Remove / Merge / Add ]
 --------------------------------------------------------------------------------
-83. Remove Duplicates from Sorted List ⭐ ->  Move to next node  new node with only when before that are not same , from one node check like eg[ 1 ,1 ,1 ,2  ] -> 1 check(index 1)same,1 check(index                                                    2)same,1 check(index 1)different then move 
+83. Remove Duplicates from Sorted List ⭐ ->  Move to next node  new node with only when before that are not same , from one node check like eg[ 1 ,1 ,1 ,2  ] -> 1 check(index 1)same,1 check(index                                                    2)same,1 check(index 1)different then move
+
+21. Merge Two Sorted Lists ⭐⭐ -> Inserting a Dummy Node to avoid edge case trick, in adding remaing element of either of two list by just reference them rather than looping them
+
 
 
 [ Cycle / Fast & Slower Pointer ]
