@@ -15,3 +15,6 @@
 --------------------------------------------------------------------------------
 141. Linked List Cycle ⭐⭐ -> Floyed Fast and Slow Pointer Trick , Fast && Fast.next together because it could jump 2 time makes fast Null , so if fast.next is only there will give
   null pointer expection or before fast (fast.next && fast) [Null] , also , fast.next to check that next node not null that means lasting on last node
+
+
+142. Linked List Cycle II ⭐⭐ -> L1 = n(c) - L2 formula for logic explaination ,Maths question devired based how the code , code does not maths but the approach has
