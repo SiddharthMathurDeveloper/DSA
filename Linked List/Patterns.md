@@ -1,5 +1,5 @@
 
-`Total Question: 4`
+`Total Question: 5`
 
 ## Maths / Normal Transvel
 ```
@@ -17,4 +17,5 @@
 ## Cycle / Fast & Slower Pointer 
 ```
 -> 141. Linked List Cycle ⭐⭐ [Main Algo of Floyed (Fast & Slower Pointer )]
+-> 142. Linked List Cycle II ⭐⭐ -> [Main Algo of Floyed (Fast & Slower Pointer ) , but internally maths is used]
 ```
