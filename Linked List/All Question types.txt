@@ -18,3 +18,7 @@
 
 
 142. Linked List Cycle II ⭐⭐ -> L1 = n(c) - L2 formula for logic explaination ,Maths question devired based how the code , code does not maths but the approach has
+
+
+876. Middle of the Linked List ⭐ -> Using Floyed fast slow pointer with Math, if u think fast is twice of slow ,so 2xslow=fast (5x2=10) if u see this you u notice that end of loop slow will always be                                       pointing to middle 5x2 = 10 slow x2 == fast ,u think logically slow always in middle and which techinally is middle of linked list , just think
+
