@@ -5,7 +5,9 @@
 
 ## Working
 Merge sort is a recursive algorithm that continuously splits the array in half until it cannot be further divided i.e., the array has only one element left (an array with one element is always sorted). Then the sorted subarrays are merged into one sorted array.
-
+</br>
+![Screenshot 2023-09-18 at 10 16 07 AM](https://github.com/SiddharthMathurDeveloper/Data-Structures-and-Algorithms/assets/133037456/364a3a01-620f-44f0-bfe5-398e32126592)
+</br>
 ## Recursion :
 ```java
 
