@@ -7,5 +7,5 @@
 
 
 ### Links
-- https://youtube.com/playlist?list=PLjkkQ3iH4jy-QRceXhVwYjJ7ToNsBs0Il [Fraz]
+- Fraz [https://youtube.com/playlist?list=PLjkkQ3iH4jy-QRceXhVwYjJ7ToNsBs0Il]
 - Neetcode Linked List for Question [https://neetcode.io/practice]
