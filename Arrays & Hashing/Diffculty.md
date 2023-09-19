@@ -1,3 +1,5 @@
+`Total Question : 2` 
+
 # Easy
 ```
 -> 1929. Concatenation of Array ⭐
