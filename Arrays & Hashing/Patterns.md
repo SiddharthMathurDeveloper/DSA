@@ -4,7 +4,8 @@
 ```
 
 
-# Hashing
+# Hashing [Freq]
 ```
 -> 1051. Height Checker ⭐️⭐️ [Hashing using Array | Constraints Matter | Logic itself]
+-> 217. Contains Duplicate ⭐️ [Hashing using collection | Basic ]
 ```
