@@ -1,4 +1,4 @@
-`Total Question : 2` 
+`Total Question : 3` 
 
 # Easy
 ```
