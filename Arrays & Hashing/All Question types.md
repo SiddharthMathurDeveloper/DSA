@@ -8,5 +8,6 @@
 
 # Hashing Basic
 - 1051. Height Checker ⭐️⭐️ ->  Using Hashing using array form , Constraint plays a role ,Learning comparing a index with hashmap value for correct decerement and getting a answer
-- 217. Contains Duplicate ⭐️ -> 
+        
+- 217. Contains Duplicate ⭐️ -> Using the Hashing to reduce the repetitive loop calcalution by storing it in hashmap the freq of numbers
 
