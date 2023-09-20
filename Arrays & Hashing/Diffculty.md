@@ -1,4 +1,4 @@
-`Total Question : 4` 
+`Total Question : 5` 
 
 # Easy
 ```
@@ -8,7 +8,9 @@
 
 -> 1051. Height Checker ⭐️⭐️
 
--> 217. Contains Duplicate ⭐️ 
+-> 217. Contains Duplicate ⭐️
+
+-> 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️
 ```
 
 # Medium
