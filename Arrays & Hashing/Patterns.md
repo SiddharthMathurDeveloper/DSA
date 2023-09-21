@@ -11,4 +11,6 @@
 -> 1051. Height Checker ⭐️⭐️ [Hashing using Array | Constraints Matter | Logic itself]
 
 -> 217. Contains Duplicate ⭐️ [Hashing using collection | Basic ]
+
+1748. Sum of Unique Elements ⭐️ [One Add on condition remove on condition , when condition goes over the required then stop doing the calutations]
 ```
