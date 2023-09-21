@@ -3,6 +3,9 @@
 -> 1929. Concatenation of Array [ nothing much , just use of [mid+1] Maths thinking ]
 
 -> 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️ [Thinking from end of array | New way to think ]
+
+-> 2553. Separate the Digits in an Array [Thinking from end of array  ⭐️⭐️ | New way to think  ]
+
 ```
 
 
