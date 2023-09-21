@@ -17,6 +17,8 @@
 - Array and Hashing
 - Stack 
 - Matrix
+- Prefix Sum
+- Sorting
 - Two pointer [✅]
 - Binary Search [✅]
 - Sliding window [✅]
@@ -35,4 +37,5 @@
 
 
 
-
+<h1>Working<>
+- Array and Hashing [ Working ]
