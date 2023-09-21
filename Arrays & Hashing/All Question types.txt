@@ -9,6 +9,8 @@
 
 - 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️ -> Something thing backward help , Rather thinking from front thinking from backward ,hint is given -1 always in last element and from                                                                       elements right side not clearly visible but they are the hints
 
+-> 2553. Separate the Digits in an Array ⭐️⭐️ - Traversal from behinds helping in questions where u think if i put values they will go in front pattern , but actually u want it from behind becuase order should not be messed , A small change & observation changess everything
+
 
 
 
