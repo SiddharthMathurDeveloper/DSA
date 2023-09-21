@@ -1,4 +1,4 @@
-`Total Question : 7` 
+`Total Question : 8` 
 
 # Easy
 ```
@@ -15,6 +15,8 @@
 -> 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️
 
 -> 1748. Sum of Unique Elements ⭐️
+
+-> 2553. Separate the Digits in an Array ⭐️⭐️
 ```
 
 # Medium
