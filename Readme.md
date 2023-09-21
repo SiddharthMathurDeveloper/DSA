@@ -15,6 +15,7 @@
 <h1>Index</h1>
 
 - Array and Hashing
+- Strings
 - Stack 
 - Matrix
 - Prefix Sum
