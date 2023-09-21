@@ -13,6 +13,8 @@
 -> 217. Contains Duplicate ⭐️
 
 -> 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️
+
+-> 1748. Sum of Unique Elements ⭐️
 ```
 
 # Medium
