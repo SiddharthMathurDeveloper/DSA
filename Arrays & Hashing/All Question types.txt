@@ -18,3 +18,4 @@
         
 - 217. Contains Duplicate ⭐️ -> Using the Hashing to reduce the repetitive loop calcalution by storing it in hashmap the freq of numbers
 
+- 1748. Sum of Unique Elements ⭐️ -> Using HashMap to hold elements frequency , can be used as HashSet , when a particular hints we have to reduce we reduce and when its goes over , then don't so only one time we calcaluted
