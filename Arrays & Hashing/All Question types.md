@@ -5,7 +5,12 @@
 
 - 1480. Running Sum of 1d Array -> Nothing much
 
+- Largest Element in Array -> Nothing much
+
 - 1299. Replace Elements with Greatest Element on Right Side ⭐️⭐️ -> Something thing backward help , Rather thinking from front thinking from backward ,hint is given -1 always in last element and from                                                                       elements right side not clearly visible but they are the hints
+
+
+
 
 
 # Hashing Basic
