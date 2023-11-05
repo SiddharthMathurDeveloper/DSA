@@ -1,4 +1,4 @@
-```java
+
 
 class Solution {
     public int diagonalSum(int[][] mat) {
@@ -31,5 +31,3 @@ class Solution {
 }
 }
 
-
-```
