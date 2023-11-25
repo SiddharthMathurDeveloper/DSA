@@ -1,3 +1,8 @@
+/*
+Time -> O(1)
+Space -> O(N)
+*/
+
 class MyStack {
     // Member variable to represent the top of the stack
     int top;
