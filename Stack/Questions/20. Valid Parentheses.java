@@ -1,3 +1,7 @@
+/*
+Way One 
+*/
+
 class Solution {
     public boolean isValid(String s) {
         // Stack to keep track of opening parentheses
@@ -37,3 +41,45 @@ class Solution {
                (openParentheses == '{' && closeParentheses == '}');
     }
 }
+
+
+
+
+/*
+Way Two -> New Approach
+*/
+
+class Solution {
+    public boolean isValid(String s) {
+        // Stack to keep track of opening parentheses
+        Stack<Character> stack = new Stack<Character>();
+
+        // Iterate through each character in the input string
+        for (char c : s.toCharArray()) {
+            // If the character is an opening parenthesis, push the corresponding closing parenthesis onto the stack
+            if (c == '(')
+                stack.push(')');
+            else if (c == '{')
+                stack.push('}');
+            else if (c == '[')
+                stack.push(']');
+            // If the character is a closing parenthesis
+            else if (stack.isEmpty() || stack.pop() != c)
+                // If the stack is empty or the popped element doesn't match the current character, return false
+                return false;
+        }
+
+        // The string is valid if the stack is empty after processing all parentheses
+        return stack.isEmpty();
+    }
+}
+
+
+
+
+
+
+
+
+
+
