@@ -30,8 +30,45 @@ class Solution {
     }
 }
 
-
 /* Solution 2
+TC -> O(N)
+SC -> O(N)
+*/
+
+class Solution {
+    public int minSwaps(String s) {
+        Stack<Character> stack = new Stack<>(); // Stack to keep track of '[' characters
+        int mismatch = 0; // Variable to count the number of mismatches
+
+        // Iterate through the characters in the input string
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            // If the current character is '[', push it onto the stack
+            if (ch == '[') {
+                stack.push(ch);
+            } else {
+                // If the stack is not empty, pop a '[' character (matching pair)
+                if (!stack.isEmpty()) {
+                    stack.pop();
+                } else {
+                    // If the stack is empty, there is a mismatch
+                    mismatch++;
+                }
+            }
+        }
+
+        // The number of swaps needed is half of the remaining mismatches (rounded up if odd)
+        return (mismatch + 1) / 2;
+    }
+}
+
+
+
+
+
+
+/* Solution 3
 TC -> O(N)
 SC -> O(1)
 */
