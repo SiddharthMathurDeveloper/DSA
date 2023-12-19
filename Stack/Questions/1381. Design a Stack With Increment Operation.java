@@ -79,7 +79,7 @@ class CustomStack {
 
 /* Solution 2
  Time - O(1)
- Space - O(N)
+ Space - O(2N)
 */
 
 
