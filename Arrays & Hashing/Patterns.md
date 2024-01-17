@@ -10,6 +10,7 @@
 
 
 # Hashing [Freq]
+
 ```
 -> 1051. Height Checker ⭐️⭐️ [Hashing using Array | Constraints Matter | Logic itself]
 
